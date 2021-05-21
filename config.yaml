@@ -1,0 +1,4 @@
+model:
+  nb: nb_core_news_lg
+  en: en_core_web_trf
+
