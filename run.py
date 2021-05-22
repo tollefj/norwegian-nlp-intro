@@ -1,8 +1,8 @@
 import sys
-from argParser import displacy_args
-from config import Config
+from argParser import ArgParser
+from config.config import Config
 from model import Model
-import spacy_streamlit as lit
+from visualizer import Viz
 
 def test(doc):
   print([(w.text, w.pos_) for w in doc])
@@ -17,13 +17,19 @@ def test(doc):
   return doc
 
 
-txt = "Dette er en presentasjon av norsk NLP for Capgemini som holdes på kontoret i Sirkus Shopping!"
+txt = "Dette er en presentasjon av norsk NLP for Capgemini som holdes på kontoret i Sirkus Shopping! Epler er bedre enn bananer. Dette er en tredje setning"
 
 if __name__ == '__main__':
-  model_name = Config().get_model('nb')
-  if not model_name:
+  args = ArgParser('SpaCy args')
+  language = args.get_lang()
+
+  conf = Config(language)
+  if not conf.data:
     sys.exit(0)
 
-  # model = Model(model_name)
-  debug_models = [model_name, 'nb_core_news_sm']
-  lit.visualize(debug_models, txt)
+  models = conf.get_models()
+  views = ["parser", "ner", "textcat", "similarity", "tokens"]
+
+  viz = Viz(conf.get_models(), views)
+  viz.show(txt)
+  

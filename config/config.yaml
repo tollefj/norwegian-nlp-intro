@@ -1,0 +1,8 @@
+model:
+  nb: 
+    large: nb_core_news_lg
+    small: nb_core_news_sm
+  en:
+    large: en_core_web_trf
+    small: en_core_web_sm
+
