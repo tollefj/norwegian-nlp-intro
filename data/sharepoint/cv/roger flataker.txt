@@ -1,0 +1,37 @@
+Roger er en meget erfaren sjefskonsulent med bred erfaring fra ulike bransjer​
+
+Han har fokus på at systemene henger sammen med de organisatoriske prosessene gjennom god virksomhetsarkitektur og forankring spesielt hos sluttbrukerne. ​
+
+Roger er en god kommunikator og omsetter kundebehov til gode løsninger. Han har evnen til å dukke dypt inn i tekniske problemstillinger og samtidig fokusere på forretiningsverdi og sluttbrukere.​
+
+Han har spesielt høy kompetanse innen innføring og bruk av samhandlingsverktøy i organisasjoner. ​
+
+Roger bistår også organisasjoner i strategiutvikling og endringsledelse. ​
+
+Roger holder også gjesteforelesninger i Master of Management på NTNU i faget «Samhandling, sosiale nettverk og nye medier».
+
+Han har en B.Sc fra HIST og Master of Management utdanning fra​
+
+NTNU og er i tillegg Scrummastersertifisert. ​
+
+Roger har lang erfring som fagleder og personalleder fra tidligere arbeidsgivere
+
+Prosjektstyringsportal| SINTEF​
+
+Etablering av nytt intranett, prosjektportal og samhandlingsplattform for 2000 ansatte i SINTEF. Rogers hadde ansvaret hele prosessen fra tilbud til ferdig løsning. Løsningen er basert på SharePoint Online, mens stort sett all skreddersøm ble utviklet som Azure WebApps integrert med Office365 plattformen i et hybrid miljø for integrasjon med fagsystemene til internt i SINTEF. Roger var løsningsarkitekt og funksjonell rådgiver.​
+
+Performance Management System| Teekay Offshore Production​
+
+Teekay har mange flytende produksjonsskip i ulike deler av verden. Dette prosjektet gikk ut på å samle ulike data fra produksjons-, HMS-, vedlikeholdssystemer og andre systemer inn i ett felles rollebasert Dashboard. Systemet har som hensikt å kunne gi Teekay bedre styringsgrunnlag for innenfor flere ulike tema. Systemet er skreddersydd for Teekay. Frontend-delen av løsningen er basert på ulike javascriptrammeverk som vue.js, high charts, mens forretningslogikk er bygget i .NET.Core C#. Datalagring skjer i MongoDB og MSSQL. Roger hadde ansvaret for å hente inn krav fra organisasjonen og beskrive  hvordan løsningen kunne realiseres​
+
+Digititalisering av arbeidsprosesser| norsk teknologiselskap​
+
+Selskapet er et ungt og sterkt voksende selskap som trengte en løsning som støttet deres kjerneprosesser fra salg til ferdig leveranse. De ønsket en løsning som integrerte alle systemene fra de ulike stegene i verdikjeden. Roger hadde ansvaret for å kartlegge alle arbeidsprosessene og lage en løsningsbeskrivelse som støttet forretningsmålene. Han fikk også ansvaret for å implementere løsningen basert på Microsoft porteføljen. Løsningen ble integrert med ERPsystem (Maconomy), Microsoft CRM og en rekke LOB tjenester. Løsningen er et virksomhetskritisk system som håndterer alle prosjektene fra A-Å, hvor de kan følge med på nøkkelinformasjon fra alle prosjektene sine, dele oppgaver, hente styringsinformasjon og jobbe med rapportene til kundene sine på en effektiv og robust måte​
+
+Resource Management System| globalt offshore selskap ​
+
+Selskapet har en distribuert organisasjoni flere land. Selskapet hadde behov for et system for å håndtere bestillinger av ressurser  på tvers av virksomhetsområder. Roger hadde ansvaret for å innhente kravene fra organisasjonen og modellere en arbeidsprosess og lage et løsningsdesign. Løsningen ble laget i Azure Logic Apps, kombinert med Microsoft SharePoint Online, samt noe skreddersydd kode.  ​
+
+System for søknad og støtteutbetaling| Enova SF​
+
+Enova gir støtte til ulike formål knyttet til energieffektivisering. For at Enova skal kunne vurdere lønnsomheten i prosjektene de gir støtte til, må de gjøre en investeringsanalyse av prosjektet ved beregning av nåverdi-beregning og internrente. Roger ledet prosjektet, samlet inn detaljerte krav fra kunden, foreslo løsning og bidro inn i den tekniske løsningsbeskrivelsen. I tillegg ledet han utviklingsarbeidet med bruk av Scrum og gjennomførte testingen av løsningen. Enova har fikk en integrert nettbasert investeringskalkulator i sitt søknadssenter, slik at søker lett kan se om prosjektet blir lønnsomt, med eller uten støtte fra Enova. Søker kan også vurdere om søknaden blir støtteberettiget før den sendes inn. På den måten får Enova økt andel søknader som får støtte, samt at saksbehandler lett kan vurdere søknaden mot de krav som stilles for å få støtte. 

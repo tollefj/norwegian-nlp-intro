@@ -1,0 +1,173 @@
+Ove er en erfaren infrastruktur konsulent som har jobbet med Microsoft teknologi i over 10 år. Der de siste 5 år har han jobbet i konsulentbransjen med fokus på skytjenester, både privat og public, levert fra Microsoft. 
+
+Han har lang erfaring som teknisk lead på større og mindre prosjekter, og kan vise til mange suksessfulle leveranser innen sitt område 
+
+Ove har med sin lange erfaring fra drift og leveransesegmentet, høy kunnskap om IT løsninger hos kunder i de fleste bransjer og størrelser. Dette gjør at han ser helheten i det kunden ønsker, og har et godt øye for hva som er viktig for kunden. 
+
+Han har kjørt både kurs og workshops, og har en god evne til å formidle informasjon på en forståelig måte til publikum med forskjellig erfaringsnivå. 
+
+Ove er arbeidsvillig og pålitelig, og leverer det han har lovt å levere. Han er lidenskaplig opptatt av  ny teknologi og bruker mye tid til å sette seg inn i det nye som kommer.  
+
+ 	 
+
+Prosjektreferanser 
+
+2019-09 – Pågående 	Skatteetaten 
+
+Prosjekt: Office365 
+
+Rolle og ansvar: Rådgiver  
+
+Er en del av rådgivning- og design gruppen for forprosjektet Office365. Der målet er å evaluere Office 365 som en kollebrasjonsplattform for Skatteetaten. 
+
+I tillegg stiller Ove som teknisk rådgiver på implementasjonen i de forskjellige «PoC» fasene. 
+
+Resultat: Pågående prosjekt. 
+
+Metode og teknologi: Office 365, Exchange Online 
+
+ 
+
+2018-09 – 2020-02 	Telenor Global Shared Services 
+
+Prosjekt: Office365 
+
+Rolle og ansvar: Prosjektleder/Exchange Online Ansvarlig  
+
+Telenor går over til Office365 for kollabrasjon og epost. Ove sitter som kombinert del-prosjektleder og teknisk ansvarlig for utrulling. Oppgavene innebefater koordinering av ressurser på tvers av flere land, samt feilsøkning og teknisk rådgivning på Office365. 
+
+Resultat: Utrulling av Office365 i stor grad ferdig i en Business Unit  
+
+Metode og teknologi: Office 365, Exchange Online, PowerShell 
+
+ 
+
+2018-05 - 2018-07 	Gard 
+
+Klientbeskrivelse: Assuranceforeningen Gard er et internasjonalt gjensidig sjøforsikringsselskap. Selskapet baserer seg på rederansvar. Hovedkontoret er plassert i Arendal, Norge 
+
+Prosjekt: Blockchain etablering i Azure 
+
+Rolle og ansvar: Senior Konsulent  
+
+Etablering av BlockChain infrastrukur for forsikringsbrasnjen til sjøs. Løsningen ble levert av leverandør, og etablert av Ove.  
+
+Resultat: Produksjon og testmiljø etablert i Azure med oppsett av disaster recovery for produksjon 
+
+Metode og teknologi: ARM Templates, Azure, WebApps, Azure SQL, Docker 
+
+ 
+
+2017-05 - 2017-07 	Volmax 
+
+Klientbeskrivelse: Volmax As leverandør og forhandler av Volvo Lastebiler og Busser i Vestfold, Telemark, Buskerud,Hedmark og Østfold.  
+
+Prosjekt: Azure Foundation 
+
+Rolle og ansvar: Senior Konsulent  
+
+Etablering av basis infrastruktur i Azure for å håndere federering, samt bistand til utviklere for å etablere web applikasjoner i Azure. Samt oppsett og migrering til Office365. 
+
+Resultat: Web Applikasjoner, og federering kjørende i Azure. Og alle brukere migrert til Office365. 
+
+Metode og teknologi: ARM Templates, Azure, Windows Server, ADFS, WebApps 
+
+2017-02 - 2017-05 	Microsoft 
+
+Prosjekt: Azure Ranger 
+
+Rolle og ansvar: Foredragsholder 
+
+I regi av Microsoft ble det levert workshops og foredrag for hosting-partnere for å øke kompetanse på Microsoft Azure og Office 365. Dette før å øke bruken av skyteknologi til deres kunder 
+
+Resultat: Levert workshop og foredrag til over 20 partnere i hele Norge. 
+
+Metode og teknologi: Workshop/foredrag 
+
+ 
+
+2015-05 - 2015-07 	Byggma 
+
+Klient beskrivelse: Byggma ASA eier produksjonsbedriftene Forestia AS, Huntonit AS, Uldal AS, Masonite Beams AB, Scan Lamps AS og Aneta Belysning AB, samt salgsselskapet Huntonit AB i Sverige. 
+
+Byggma ASA er en komplett leverandør av byggevarer og har alle byggevarekjedene i Norge som kunder. Byggma ASA omsatte for ca. 1.6 mrd. kroner i 2017. 
+
+Prosjekt: Office365 og Azure 
+
+Rolle og ansvar: Senior Konsulent  
+
+I prosjektet leverte Ove oppsett av Office 365, migrering av epost til Exchange Online og opplæring av drift til IT ansvarlig. 
+
+Oppsett av basis infrastruktur i Azure slik at kunden kunne etablere nye applikasjoner i Azure, samt migrering av eksisterede applikasjoner til skyen. 
+
+Resultat: Ny epost løsning i stabil drift. Ferdig oppsatt infrastruktuløsning i Azure.  
+
+Metode og teknologi: Office 365 
+
+  
+
+ 
+
+2010-05 - 2011-04 	ELTEL Networks 
+
+Klient beskrivelse: Eltel er en ledende nordeuropeisk leverandør av tekniske tjenester til infranettbransjen– kritisk infrastruktur innenfor segmentene Power, Communication og Other, med kjernevirksomhet i Norden, Polen og Tyskland. 
+
+Prosjekt: Etablere ny IT løsning. 
+
+Rolle og ansvar: Konsulent  
+
+Deltaker i prosjektet som etablerte den nye IT løsningen for ELTEL.  
+
+Resultat: Ny IT løsning i stabil drift 
+
+  
+
+Metode og teknologi: Microsoft Windows, Citrix XenServer og XenApp 
+
+  
+
+2009-01 - 2010-04 	Evry 
+
+Klient beskrivelse: Evry tilbyr ulike leveranser innen IT-tjenestemarkedet, og har for eksempel leveransemiljøer innen drift, løsninger, konsulenttjenester og rådgivning. EVRY har store kundegrupper innen bransjeområdene bank og finans, kommuner og statlig sektor, helse, olje og gass, samt prosessindustri og produksjon. 
+
+Prosjekt: Etablering av hosting platform for SMB  kunder 
+
+Rolle og ansvar: Konsulent 
+
+Resultat: Plattform etablert, og 8 kunder flyttet inn på plattformen 
+
+Metode og teknologi: XenServer, Microsoft Server, Exchange, PowerShell scriptiong 
+
+  
+
+ 
+
+Utdannelse 
+
+2005-08 - 2008-06	Bachelor i Informatikk med spesialisering i drift av datasystemer 
+
+Høyskolen i Sør-Trøndelag 
+
+ 
+
+Arbeidserfaring 
+
+2018-08 - 	CapGemini 
+
+2017-08 - 2018-07	Advania AS 
+
+2013-11 - 2017-08	LumaGate AS 
+
+2008-06 - 2013-11	ErgoGroup/EDBErgoGroup/Evry 
+
+ 
+
+Sertifiseringer 
+
+2014	Installing and Configuring Windows Server 2012 
+
+2014	Administering Windows Server 2012 
+
+2014	Server Virtualization with Windows Server Hyper-V and System Center 
+
+2015	Implementing Microsoft Azure Infrastructure Solutions 

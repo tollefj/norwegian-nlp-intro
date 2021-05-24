@@ -1,0 +1,133 @@
+Richard har bred erfaring som prosjektleder og produkteier innenfor telekommunikasjon, IPTV / head-end, alarm- / strømstyring- og sporingssystemer, media, bilindustri og offentlig sektor.
+
+Som leder ønsker Richard å gå foran ved eksempel og forstår at kommunikasjon og engasjement er viktige faktorer når man skal lykkes som team. Han er vant med hektiske dager i prosjektarbeid og tilstreber en riktig balanse mellom planlegging og praktisk gjennomføring. Richard utmerker seg ved å drive leveranser og koordinere ressurser. Gjerne med metoder og prinsipper fra standarder og rammeverk for å ivareta og tilpasse de forskjellige fasene i prosjektarbeidet. Han har en høy kapasitet til å spore detaljer og avhengigheter.
+
+Som kollega er han lojal, ansvarlig, sosial, entusiastisk og trives med å bidra i team. Richard oppleves som god på kommunikasjon, både skriftlig og muntlig. Han trives med å jobbe på tvers av organisasjonen og er opptatt av at alle deltakere skal ha et genuint eierskap og oppleve at de er involvert i prosjektet.
+
+Richard har i tillegg erfaring med kontraktarbeid, inkludert business case og servicenivåavtaler, samt rådgivning innenfor arkitektur og applikasjonsportefølje. Han har bidratt i internasjonale programteam og vil gjerne bidra i større teknologiske prosjekt.
+
+Prosjektreferanser
+
+2018-08 Altibox AS
+
+Altibox er en av Norges største bredbåndsleverandører med over 500.000 privatkunder. Sammen med partnerskapet har Altibox ansvar for drift, forvaltning og videreutvikling av kundeplassert utstyr (CPE).
+
+Richard Michael Pedersen
+
+Sjefskonsulent
+
+Starbuck og Prefect er to komplimentære prosjekter som har som målsetting å lansere en ny hjemmesentral (VMG-router) for partnere og sluttkunder, samt levere ny firmware for den eksisterende FMG-hjemmesentralen til de 330.000 kundene på denne plattformen. Begge prosjektene er initiativ for å forbedre brukeropplevelsen og imøtekomme kundenes forvetninger til ny og forbedret teknologi, spesielt innenfor WiFi og innholdstjenester.
+
+Rolle: Richard var prosjektleder for tverrfaglige team bestående av produkt- og tjenesteeiere, arkitekter, testleder, utviklere, datasenter- og nettverksingeniører. Han var ansvarlig for planlegging, oppfølging av milepæler og budsjett, samt fasilitering av prosjekteiere og representanter fra Porteføljestyring, Partnernett, Produkt, Marked, Kommersiell og Logistikk hos kunden.
+
+Budsjett / antall deltakere ledet: Totalramme på 9 MNOK / Antall deltakere ledet ~40
+
+Resultat: Vellykket lansering av ny hjemmesentral VMG til partnerskap og sluttkunder 14. februar 2018. Prosjektet ble levert til avtalt tid og kvalitet grunnet god planlegging, god kommunikasjon og riktig prioritering.
+
+Prefect er pågående, planlagt avslutning ultimo juli.
+
+Metode: Hybrid leveransemodell med smidig metodikk og fossefall for rapportering, distribuert leveranse med underleverandører i Norge, Taiwan og Tyskland. PMI-basert styring og rapportering.
+
+Teknologi: Zyxel FMG & VMG hjemmesentraler inkl. WiFi, Fiberoptisk infrastruktur og bredbånd, Access Routere, Service Routere, DHCP m/Cisco CNR, Microsoft Teams, MS Project, Jira, Confluence, PowerBI.
+
+Arbeidssted: Stavanger
+
+2018-05 - 2018-06 Hydro Aluminium
+
+Tilbudsarbeid for utarbeidelse av konsept for HTMS (løsning for trafikkstyring for automatiserte kjøretøy (AGV) for logistikk og vedlikehold – Ansvarlig for prosjektbeskrivelse, styring, metodikk og rammeverk
+
+2018-03 - 2018-04 Politiets Fellestjenester (PFT)
+
+Tilbudsarbeid for ny saksbehandlingsløsning – Ansvarlig for prosjektbeskrivelse, styring, metodikk og rammeverk
+
+2017-01 - 2018-02 Daimler AG
+
+GO for Van prosjektet skal levere en større utvidelse av Daimlers globale ordresystem (GO). Denne utvidelsen vil gjøre det mulig å konfigurere, validere, bestille, planlegge produksjon og distribusjon av Mercedes-Benz V- (Van) og X-klasse (Pickup) kjøretøy i systemet. Dette benyttes av forhandlere over hele verden.
+
+Tidligere har det kun vært mulig å bestille Van produkt via forhandlernettverk for kommersielle kjøretøy (Lkw). Når prosjektet er ferdigstilt, vil begge produktgruppene være tilgjengelige i systemet (GO) som benyttes av forhandlere av personbiler (Pkw). Dette vil øke tilgjengeligheten av produktene og er derfor en strategisk viktig satsning for kunden da dette vil bidra til en betydelig økning i omsetning.
+
+Rolle: Prosjektleder for flerfaglige team bestående av team ledere, forretningsanalytikere, utviklere og testere i et Capgemini ansvars- og leveranseprosjekt. Leveranseteamet hadde deltakere lokalisert i Stuttgart (DE), Wroclaw (PL), Mumbai (IN) og Fredrikstad.
+
+Suksesskriterier for leveransen var veiledning av kunden for å hjelpe dem med koordinering av interne og tredjeparts interessenter, styring av budsjett, sikre tilbud og drive prosessen ved endringsanmodninger. Mye av kompleksiteten i prosjektet er knyttet til selve størrelsen på systemet, den distribuerte leveransemodellen og det faktum at prosjektet var en del av en større leveranse med komplekse avhengigheter til andre deler av leveransen.
+
+Budsjett / antall deltakere ledet: 2.5 MEUR / ~50
+
+Resultat: Vellykket lansering av Release 60 den 19. Februar 2018 uten hindring eller defekter. Total bidragsmargin på 55%.
+
+Metode: Distribuert, On-/near- og offshore, UPM skreddersydd til Daimler prosjektmodell, PMF, parameterbasert estimering, RapidStart, tilbudsprosess, BCS, ICB, risikobasert testing, faset leveranse for å håndtere risiko.
+
+Teknologi: N2K, Clarity & OWB, Jira & Confluence, Cobol, Java / WebSphere / Dojo, ThinkCell, MS Project, Help & Manual, Team Forge, SVN / GIT, HP ALM.
+
+Arbeidssted: Stuttgart
+
+2017-09 - 2017-12 Daimler AG
+
+Målet med WLTP (Worldwide harmonized Light vehicles Test Procedure) for GO for Van prosjektet var å integrere en utslippskalkulator i Global Ordering systemet. Denne tjenesten trengs for å tilgjengelig gjøre data om utslipp ved konfigurering, evaluering og bestilling av kjøretøy i Van porteføljen. Dette er funksjonalitet som blir påkrevd i den nye EU lovgivningen som trer i kraft september 2018.
+
+Rolle: Richard var prosjektleder for forretningskrav-, estimering- og spesifikasjonsfasene for denne leveransen. Dette var et Capgemini leveranseprosjekt gjennomført med tverrfaglige team bestående av team ledere, forretningsanalytikere og utviklere. Leveranseteamet var distribuert og lokalisert både i Stuttgart (DE) og Fredrikstad.
+
+Det ble benyttet en hybrid leveransemodell som bestod av ca. 80% smidig metodikk og resten fossefall / sekvensielt. Den smidige tilnærmingen ble valgt for å gjøre kompleksiteten mer håndterbar ved å sikre kundens aktive deltakelse som produkteier som prioriterer rekkefølgen av implementering av krav.
+
+Budsjett / antall deltakere ledet: 300 KEUR / ~20
+
+Resultat: Ca. 50% av den totale leveransen ble realisert før prosjektet ble overlevert til linjeorganisasjonen som overtok ansvaret for ferdigstillelse til Release 61, 16. juli 2018. Dette på grunn av omlegging av leveransemodell og restrukturering av organisasjonen i Central Sales.
+
+Metode: Distribuert, On- og nearshore, UPM skreddersydd til Daimler prosjektmodell, PMF, parameterbasert estimering, tilbudsprosess, BCS, ICB, Agile / Scrum.
+
+Teknologi: N2K, Clarity & OWB, Jira & Confluence, Cobol, Java / WebSphere, ThinkCell, Help & Manual, Team Forge, SVN / GIT.
+
+Arbeidssted: Stuttgart
+
+Utdannelse
+
+1998-08 - 2000-06 Høgskolekandidat i Data og multimedieteknikk
+
+Gjøvik University College
+
+1995-08 - 1996-07 Førstegangstjeneste
+
+Det Norske Forsvaret
+
+Arbeidserfaring
+
+2016-02 Capgemini Norge AS
+
+2014-11 - 2016-01 Bouvet AS
+
+2011-08 - 2014-10 Capgemini Norge AS
+
+2007-03 - 2011-07 DEFA AS Services
+
+2005-03 - 2007-03 Plasus Technologies AS
+
+2003-10 - 2004-08 AIT Nørhaven AS
+
+2000-06 - 2003-09 Bennett AS
+
+Kurs
+
+2017-06 Advanced Engagement Management
+
+2015-10 PRINCE2 Foundation, E-learning
+
+2013-10 Bid Management D-BOB11
+
+2013-10 Risk Management
+
+2013-08 DELIVER Unified Project Management method
+
+2013-07 Estimation-Part 3- Project Estimation
+
+2013-05 TOGAF 9 Boot camp
+
+2013-05 Presentation Technique
+
+2012-03 Tjenesteutvikling Altinn 2
+
+2012-02 SERES domeneklient
+
+2012-02 Architecture IAF Essentials
+
+2011-09 Certified Scrum Master
+
+2011-08 Workshop fasilitering

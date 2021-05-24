@@ -1,0 +1,212 @@
+Ivar en fullstack .NET- og Javautvikler med ekspertkomtepanse på Azure. 
+
+De siste årene har han arbeidet mye i kraftbransjen med arkitektur og utvikling av moderne forretningsapplikasjoner, integrasjon mellom forretningssystemer, samt rådgivning på Azure. Han leverer løsninger sammen med kunden, fra kravspesifikasjon til leveranse. 
+
+Ivar er en smilende og omgjengelig person som raskt tilpasser seg nye miljøer. Han brenner for å løfte  bedrifters typiske tilnærmering til applikasjonsutvikling, infrastruktur og drift for å være bedre tilpasset morgendagen. 
+
+ 
+Prosjektreferanser 
+
+2017-01 - 2020-03	TrønderEnergi Nett 
+
+Prosjekt: Bistand, Azure og integrasjoner 
+
+Rolle og ansvar: Konsulent 
+
+Startet med bakgrunn i å avslutte BizTalk-miljø og overføre integrasjoner til Java-applikasjoner, med årlig besparelse > 500.000 NOK. Utviklet over 20 integrasjoner, små og mellomstore, for å knytte ulike forretningssystemer som Agresso, NetBas, ISCU(kundesystem). Utviklet ulike støttetjenester; mottak, lagring og eksponering for AI/analyse av millioner av meldinger fra AMS-målere per dag. «Innsynsklient» som samler meldingsutveksling mellom integrasjoner og forretningssystemer. 
+
+Metode og teknologi: Java, Spring Boot, Azure; CosmosDB, PostgreSQL (PaaS), ServiceBus, IaaS. 
+
+ 
+
+2019-06 - 2020-03	TrønderEnergi Nett 
+
+Prosjekt: Portal for AMS-målere.  
+
+Rolle og ansvar: Utvikler 
+
+Ansvarlig for leveranse, fra design til implementasjon. 
+
+Resultat: Samlet inn behov og krav fra forretningen. Driftsatt første release (MVP). Knytter eksisterende kunde- og arbeidssystemer sammen for stengning/åpning av kunders strøm. Tillater digital stengning av alle KAIFA AMS-målere. Erstatter utsendelse av tekniker for samme jobb. 
+
+Designet og skrevet løsning. Implementert med Azure DevOps og CI/CD. 
+
+Metode og teknologi: Java, Spring Boot, Angular, Typescript, PostgreSQL, Azure, Azure DevOps Docker 
+
+ 
+
+2019-08 - 2019-12	Betonmast 
+
+Prosjekt: Ansattportal 
+
+Rolle og ansvar: Utvikler 
+
+Designet og utviklet løsning for automatisere og forenkle prosesser rundt brukere og tilganger, for ansatte og spesielt onboarding av nyansatte. En løsning som del av et større prosjekt hvor identitetsstyring ble migreret til Microsoft Identity Manager(MIM). Utviklet brukerportal og API for MIM, samt satt opp infrastruktur i Azure. 
+
+Resultat: Portalen brukes i dag for å registrere ny ansatte i selskapet og innhenting av personalopplysninger. Tilganger, forsikring for samboer/barn etc. registreres automatisk gjennon onboardingsprosessen. Benyttes også som et dashboard for personalledere for oversikt over ansatte.  
+
+Metode og teknologi: .NET Core, Angular, Azure, Azure AD Proxy, Microsoft Identity Manager 
+
+ 
+
+2019-01 - 2019-06	Innofactor 
+
+Prosjekt: Marketplace, kundeportal 
+
+Rolle og ansvar: En av to utviklere (og produkteiere) 
+
+White label portal for utrulling av tjenester og infrastruktur direkte på Azure/Kubernetes, enten som selvstående app-portal hos kunde eller vår egen kundeportal. Programvare og løsninger pakketeres på ulike måter, f.eks. Powershell-script eller containers ihht. API spesifikasjon. Portal tar i mot jobb fra bruker med eller uten konfigurasjon og ruller ut løsning i bakgrunn. Bruker/administrator kan følge prosessen via SignalR i portal. 
+
+Resultat: Versjon driftsatt hos Universitet i Tromsø for «on-demand» RStudio instanser med containers til alle studenter og ansatte. 
+
+Metode og teknologi: Angular, .Net Core, SignalR, Azure, Azure Kubernetes Service, Azure SQL 
+
+ 
+
+2018-08 - 2018-12	Maersk 
+
+Prosjekt: VMOD, overvåking og vedlikehold av hardware/software på fartøy 
+
+Rolle og ansvar: Konsulent 
+
+Utviklet generiske pakker for overvåking og samling av metrics og logger fra operativsystem samt ulike forrentings- og fartøysapplikasjoner som kjøres i fartøyenes datasenter/racks. Pakkene installeres automatisk på VMer i nettverket. 
+
+Resultat: Levert 
+
+Metode og teknologi: Ansible, Sensu, ELK stack, Azure DevOps 
+
+ 
+
+2017-01 - 2018-01	Felleskjøpet 
+
+Prosjekt: Azure Rådgivning og bistand 
+
+Rolle og ansvar: Konsulent, infrastruktur, DevOps verktøy 
+
+Satt opp sikker infrastruktur bygget rundt Azure App Service Environment (isolert PaaS) med CI/CD for fortløpende utrulling. Opplæring av IT og utvikling for bruk av Azure og Azure DevOps. 
+
+Resultat: Cloud infrastruktur tatt i bruk med CI/CD for ny mobilapp. 
+
+Metode og teknologi: Azure, Azure DevOps, App Service Environment, Application Gateway mm. 
+
+ 
+
+2017-10 - 2017-12	Lovisenberg Diakonale Sykehus 
+
+Prosjekt: Identity Manager og integrasjoner 
+
+Rolle og ansvar: Konsulent 
+
+Oppdatering og fornying av portefølje med utdatert integrasjoner der flere ikke fungerte. 
+
+Resultat: Oppdatert, organsiert og driftsatt samtlige integrasjoner. 
+
+Metode og teknologi: Microsoft Identity Manager, Git, .NET 
+
+ 
+
+2017-08 - 2017-12	Felleskjøpet 
+
+Prosjekt: Lansering av ny nettbutikk 
+
+Rolle og ansvar: Konsulent 
+
+Bistått lansering av ny nettbutikk med ansvar for overvåking av skyløsningen gjennom OMS og application Insights. Rådgiving rundt videre utvikling av løsning for optimal utnyttelse av Azure som platform. 
+
+Resultat: Cloud infrastruktur tatt i bruk med CI/CD for ny mobilapp. 
+
+Metode og teknologi: Azure, OMS, Application Insights 
+
+ 
+
+2017-01 - 2017-06	Lumagate 
+
+Prosjekt: Insights - Internt prosjekt 
+
+Rolle og ansvar: En av to utviklere (og produkteiere) 
+
+Løsning for Cloud Service Provider's (CSP)/hosters for å aggregere Azure-forbruk og -kostnader for deres kunder i Azure. Distribuerte «live» dashboards med PowerBI for å gi kunden løpende innsikt i forbruk. Muliggjør differensiering på pris på over 10.000 Azure ressurser per kunde og automatisk generering av fakturagrunnlag. 
+
+Resultat: Overnevnte funksjonalitet implementert. Avsluttet da Microsoft kjøpte Cloudyn for å tilby tilsvarende tjeneste gratis. 
+
+Metode og teknologi: .NET Core, Microsoft PowerBI, Azure Functions, Azure Storage, Azure SQL Database 
+
+ 
+
+2017-01 - 2017-06	Veidekke 
+
+Prosjekt: Invitasjonsportal 
+
+Rolle og ansvar: Utvikler, ansvarlig. 
+
+Utviklet løsning for invitasjon av kunder og partnere til deres Azure AD og spesifikke Sharepoint-områder ved bruk av Azure AD B2B. Brukere inviteres gjennom mailflyt med ulike epost-maler med brukerveiledning og avtale for tilgang. 
+
+Resultat: Løsningen har invitert brukere tusenvis av ganger på tvers av selskapets norske, svenske og danske ansatte. 
+
+Metode og teknologi: Azure AD, Angular, Azure Web App, Sharepoint Online 
+
+ 
+
+2017-01 - 2017-06	Volmax 
+
+Prosjekt: Migrasjon til Azure 
+
+Rolle og ansvar: Konsulent 
+
+Migrasjon av intranett og interne web applikasjoner til Azure og Azure Web Apps. 
+
+Resultat: Flyttet, testet og driftsatt applikasjoner. 
+
+Metode og teknologi: Azure AD, Azure Web App 
+
+ 
+
+2016-07 - 2017-12	Lumagate 
+
+Prosjekt: LumaAdvantage - Internt prosjekt 
+
+Rolle og ansvar: Utvikler, ansvarlig. 
+
+Utvikling av kundeportal. Abbonement-tilgang til utrullings-skript i Azure, kunnskapsbase mm. 
+
+Metode og teknologi: Angular, .NET Core, Azure Web Apps, Azure Storage, Redis 
+
+  
+
+Utdannelse 
+
+2013 – 2016	Dataingeniør 
+
+Norges teknisk-naturvitenskapelige universitet 
+
+ 
+
+2008 - 2011			Økonom 
+
+Handelshøgskolen i Bodø / Nord Universitet 
+
+ 
+
+Arbeidserfaring 
+
+2020-01 - 	Capgemini 
+
+2016-06 - 2019-12	Innofactor AS (tidl. Lumagate AS) 
+
+Senior Konsulent (2019) 
+
+Konsulent (2017, 2018) 
+
+Intern utvikler (2016) 
+
+2015-09 - 2015-12	Age of Media 
+
+Utvikler, PHP 
+
+2011-07 - 2016-09	DNB 
+
+Kunderådgiver 
+
+2005       - 2011	Kiwi Skjærhalden 
+
+Sommerjobb 

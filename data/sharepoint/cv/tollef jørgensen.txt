@@ -1,0 +1,82 @@
+Tollef er en teknologi-entusiast som gjerne bruker tiden som ikke tilbringes foran tastaturet til terrengsykling og pianospilling. Han var sterkt involvert i frivillighet gjennom studiene, og har tilegnet seg bred kompetanse både i og utenfor teknologiske grener gjennom dette.​
+
+Fra forskjellige jobber, verv og personlige prosjekter har han erfaring innen mangfoldige felt innen kunstig intelligens, systemutvikling, mikrokontrollere, frontend og design thinking. Dette gjør at han kan tilpasse seg mange forskjellige prosjekter og komme med innspill på flere nivåer for et prosjekt under utvikling. ​
+
+​
+Mastergrad innen Kunstig Intelligens (AI) og språkprosessering (NLP)​
+
+Klassifisering av sentiment (implisitte og eksplisitte meninger) til entiteter i ustrukturert tekst. Involverte bruk av de nyeste teknologiene innen AI og NLP.​
+
+​
+
+Webutvikling og graf-API, Strise​
+
+Videreutvikling av en SaaS (Software-as-a-Service) plattform med Scala backend, React og Typescript frontend. Utforskningsverktøy for GraphQL.​
+
+​
+
+Webutvikler, Studentersamfundet​
+
+Jobbet frivillig som utvikler på Studentersamfundet i over tre år. Utviklet og vedlikehold av nettsiden samfundet.no. Teknologier. Ruby on Rails, Postgres, JavaScript/React, Apache. Erfaring med bl.a. reservasjonssystem og bord-booking for restauranten Lyche.​
+
+​
+
+Webutvikler, Cloud Insurance​
+
+SaaS platform laget fra bunn med sterk koordinering med et UX team. Skrevet i Vue.js med Typescript og en PHP backend.​
+
+​
+
+Softwareutvikler, SKAGEN Fondene​
+
+Automatisert gjenfinning av håndskreven tekst (OCR) for innleverte skjemaer. Involverte nevrale nett for bildekjenkjenning og trening av modeller for norsk tekst. Sideprosjekt: en fuzzy-search algoritme for å detektere og korrigere feilstavede norske navn. Teknologier: Java, TensorFlow, Python, Docker.​
+
+​
+
+Softwareutvikler, Revolve NTNU​
+
+Utvikling av et CANBUS-mottager system for å håndtere sanntidsinformasjon fra over 300 sensorer i en elektrisk racerbil. Teknologier: Python, MongoDB
+
+Utdannelse og sertifiseringer​
+
+Datateknologi, mastergrad, NTNU.​
+
+​
+
+Ferdigheter​
+
+Kunstig intelligens​
+
+Maskinlæring​
+
+Språkteknologi (master)​
+
+Full-stack​
+
+Design thinking​
+
+UNIX​
+
+Google Cloud/AWS​
+
+Docker​
+
+​
+
+Python​
+
+Ruby on Rails​
+
+Java/Scala/C#​
+
+C++​
+
+​
+
+Web-teknologier:​
+
+React, Vue.js, Angular, Svelte​
+
+GraphQL​
+
+TypeScript

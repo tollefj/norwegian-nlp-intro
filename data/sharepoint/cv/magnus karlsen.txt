@@ -1,0 +1,139 @@
+Oppsummering  
+
+Magnus er en konsulent med fokus på utvikling, og har erfaring med en rekke plattformer og teknologier. Dette gjør både at han raskt glir inn i eksisterende prosjekter, og at han finner den perfekte kombinasjonen for et nytt produkt. Han etterstreber å finne det som gjør at programmet presterer suverent eller det som gjør prosessen lekende lett. 
+
+Han har utviklingserfaring fra web-, Windows-, Linux- og mobilutvikling. I flere år har han jobbet med Microsofts .NET Framework, og i senere tid også tatt i bruk .NET Core. I tillegg har han arbeidet med algoritmeoptimalisering, HPC/superdatamaskiner og informasjonssikkerhet. 
+
+Som person er Magnus strukturert og drevet, og strekker seg etter å levere gode produkter av høy kvalitet.  Han prøver alltid å tilegne seg ny kunnskap, og deltar derfor entusiastisk på nye og spennende prosjekter. Magnus takler godt nye utfordringer, og klarer raskt å sette seg inn i nye situasjoner. 
+
+ 
+
+Prosjekterfaringer  
+
+2018/Sept –	Bodø Kommune	 
+
+Kundebeskrivelse: Kommunen i Bodø Kommune. 
+
+Prosjekt: Bygge SharePoint Online-løsning til Bodø Kommune med ny prosjektromside og porteføljevisning. Utvikling av brukervennlig veiviser for opprettelse av prosjektrom. 
+
+Roller og ansvar: Front-end-utvikler, back-end-utvikler, SharePoint add-in-utvikler, database, design, arkitekt. 
+
+Resultat: En ny tjeneste for opprettelse av prosjektrom, med kontinuerlig oppdatering av porteføljevisning. 
+
+Metodikk og teknologier: SharePoint Online, Logic Apps, Runbook, Azure Active Directory, .NET Core, ASP.NET, C#, Angular, PnP-rammeverket, PowerShell, SharePoint-hosted add-in, Provider-hosted add-in for SharePoint.  
+
+ 
+
+Page Break
+ 
+
+2018/Aug – 2019/Jun	Masteroppgave NTNU 
+
+Klientbeskrivelse: NTNU er Norges største universitet.  
+
+Prosjekt: Analysere, rangere og forbedre verktøy for statisk kodeanalyse relatert til oppdagelse av sikkerhetshull. 
+
+Roller og ansvar: Utvikler, arkitekt, sikkerhetsforsker, akademisk fagskribent. 
+
+Resultat: Publisering av vitenskapelig artikkel til Association for Computing Machinery (ACM), og presentasjon på EASE 2019-konferansen. I tillegg ble en vitenskapelig rapport levert NTNU, gitt toppkarakter. 
+
+Metodikk og teknologier: Java, J2EE, Apache Groovy, Scala, Kotlin, statisk kodeanalyse, Eclipse, LaTeX. 
+
+ 
+
+ 
+
+2018/Jun – 2018/Aug	Capgemini Norge AS	 
+
+Kundebeskrivelse: Capgemini er et multinasjonalt selskap som tilbyr IT-tjenester, og er et at verdens største IT-konsulentselskap. 
+
+Prosjekt: Web-portal for opprettelse, påmelding, og oversikt over fagmiljøer innad i Capgemini. 
+
+Roller og ansvar: Utvikler, arkitekt, database, autentisering. 
+
+Resultat: En ny og brukervennlig web-portal for fagmiljøene innad i Capgemini.  
+
+Metodikk og teknologier: Angular, C#, .NET Core, ASP.NET, RESTful API, Microsoft Graph, Microsoft VSTS, DevOps, Scrum, Kanban. 
+
+ 
+
+ 
+
+2018/Jan – 2018/Jun	NRK Radio	 
+
+Kundebeskrivelse: Radiosendingene til NRK. 
+
+Prosjekt: Hvordan NRK Radio kan tilrettelegge for en mer interaktiv brukeropplevelse.  
+
+Roller og ansvar: Konseptutvikler, design. 
+
+Resultat: Nytt konsept for interaktivitet mellom lyttere og programledere gjennom NRKs mobile Radio-applikasjon.  
+
+Metodikk og teknologier: Adobe XD.  
+
+ 
+
+2017/Aug – 2017/Des	Schlumberger 
+
+Kundebeskrivelse: Schlumberger er ledende leverandør av kompetanse og teknologiske løsninger innen utforskning og produksjon i petroleumsindustrien. 
+
+Prosjekt: Visualiserings- og analyseverktøy for utforsking av olje og gass.  
+
+Roller og ansvar: Utvikler, design, arkitekt. 
+
+Resultat: Web-applikasjon for å visualisere havbunnen, med mulighet til å utforske forskjellige bergarter og informasjonen rundt dette.   
+
+Metodikk og teknologier: Google Firebase, React, Kanban.  
+
+ 
+
+Page Break
+ 
+
+2016/Aug – 2016/Des	NTNU, Maskinær programmering	 
+
+Klientbeskrivelse: NTNU er Norges største universitet.   
+
+Prosjekt: Utvikle en håndholdt spillkonsoll fra bunnen.  
+
+Roller og ansvar: Utvikling, hardware-arkitekt, design. 
+
+Resultat: Håndholdt spillkonsoll med avansert CPU- og strømstyring, med tilkoblingsmulighet for ekstern kontroller med egenskrevne drivere.  
+
+Metodikk og teknologi: Assembly, C, Linux. 
+
+ 
+
+2016/Jan – 2016/Jun	NTNU, Programvareutvikling	 
+
+Klientbeskrivelse: NTNU er Norges største universitet.  
+
+Prosjekt: Utvikle smartbilopplevelse ved hjelp av sensordata.  
+
+Roller og ansvar: Utvikling, design, dataprosessering, simulering av data-input. 
+
+Resultat: En programvare for drivstoffoptimalisering basert på gamification-konseptet. 
+
+Metodikk og teknologi: Java, JavaFX.  
+
+ 
+
+ 
+
+Utdanning 
+
+2014/Aug – 2019/Jun	Master i Datateknologi, NTNU Trondheim 
+
+2011/Aug – 2014/Jun	Studiespesialisering, Fagerlia Videregående Skole 
+
+ 
+
+Arbeidserfaring  
+
+2018/Sept –	Capgemini Norge AS, Juniorkonsulent 
+
+2018/Jun – 2018/Aug	Capgemini Norge AS, Summer Intern 
+
+2016/Jun – 2016/Aug	Bingsa Miljøstasjon 
+
+2009 – 2014	Media Distribusjon, Selger av søndags-VG 

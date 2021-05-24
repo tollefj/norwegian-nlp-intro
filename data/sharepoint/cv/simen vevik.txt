@@ -1,0 +1,248 @@
+Simen er en allsidig systemutvikler med erfaring fra ulike teknologier. Han går Microsoft programmet i Capgemini og fokuserer på å bygge løsninger med .NET Core og Microsoft Azure. Han har prosjekt erfaringer med Javascript, Python og Java, og er dreven i teknologier som Vue, React, HTML, CSS, databaser og Docker. 
+
+I tillegg til en bachelorgrad i informatikk har Simen flere engasjement som systemutvikler hos NTNU Beta, og han har også vært ivrig med å lære ting på egen fritid. Kombinert med stor nysgjerrighet og interesse for faget setter han seg raskt inn i nye systemer og teknologi. 
+
+Simen er strukturert og målrettet i sitt arbeid. Han trives med å jobbe i team og prøver gjerne å se på helheten i det han driver med. På fritiden er han aktiv og har stor interesse for friluftsliv.
+Page Break
+ 
+
+ 
+
+Prosjektreferanser  
+
+ 
+
+ 
+
+  
+
+2020-10 - d.d.			Altera Infrastructure 
+
+ 
+
+Klient beskrivelse:   
+Altera Infrastructure er en ledende global gruppe for infrastrukturtjenester innen energi som primært fokuserer på eierskap og drift av kritisk infrastruktur i offshore oljeregioner i Nordsjøen, Brasil og Canada. 
+
+Prosjekt: 
+
+Utvikle et interaktivt dashboard for overvåking av ressurser og data. Kunde ønsket å kunne administrere viktige ressurser og vise daglig oppdaterte produksjonsdata fra internt API. I tillegg skulle løsningen fungere som en samleportal med en gjennomtenkt navigasjonslogikk ut mot andre interne tjenester. 
+
+ 
+
+Rolle og ansvar:  
+
+Frontend og backend utvikler. Ansvar for å finne, presentere og velge løsninger. 
+
+Jobbet selvstendig med utvikling og testing av dashboardet i et Scrum team med hovedfokus på Frontend. Jobbet særlig med å lage ulike interaktive komponenter inkludert kart-løsningen. Kommunikasjon med backend tjenester og strukturering av data lagring på Frontend. Responsivt og universelt utformet design. 
+
+Backend tjenester: 
+
+- Oppsett av forskjellige databaser for ulike miljø 
+
+- Datamodellering, logikk og API endepunkter for å kunne hente viktige ressurser 
+
+- Implementerte bakgrunnsjobb for å cache vær-data fra eksternt API 
+
+  
+
+Resultat:  
+
+Web applikasjon med interaktiv kart visualisering av ressurser. Løsningen gir en realistisk og oppdatert oversikt over alle ressursene til kunden, og gjør det mye enklere for brukeren å navigere seg frem til riktig informasjon på tvers av flere tjenester. Applikasjonen henter cachet data fra backend tjenesten og kalkulerer fremtidig verdi for kontinuerlig sanntids oppdatering til bruker. For å øke ytelse og redusere stress på andre tjenester ble det implementert en backend tjeneste som fungerte som proxy til denne løsningen ved å cache data fra interne og eksterne tjenester. 
+
+Etter første lansering ble det lansert flere oppdateringer til produksjon ved å utnytte smidig utvikling, CD/CD, feature toggling og Azure Slot Swapping. 
+
+ 
+
+Metode og teknologi:   
+
+Vue.js, Vuex, Typescript, Cypress, Bootstrap, Leaflet, C#, .NET Core, CQRS, Mediator, Redis, MsSql, Scrum 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2020-06 - 2020-08		NTNU Beta  
+
+ 
+
+Klient beskrivelse:   
+NTNU Beta er en organisasjon underlagt NTNU som driver med innovasjon, utvikling og testing av nye læringssystemer for NTNU. NTNU Beta skal blant annet opparbeide brukererfaring som grunnlag for teknologianskaffelser og utviklingsarbeid ved NTNU.  
+
+ 
+
+Prosjekter:  
+
+Et av fokusområdene til NTNU Beta har vært å teste open source kursplattformen Open Edx. Simen har vært engasjert i to prosjekter mot denne plattformen, beskrevet nedenfor.  
+
+  
+
+Videokonferanse: Målet var å utvikle en videokonferanse applikasjon som kursbyggere kunne legge til i sine kurs som en modul inne i kursbyggerplattformen. Denne modulen skulle testes på språkstudenter ved NTNU.   
+
+Frontend portal: Hensikten med dette prosjektet var å lage en frontend portal som koblet de ulike funksjonene og systeme til Open Edx sammen mot NTNU-bruker og diverse andre interne systemer. 
+
+  
+
+Rolle og ansvar:  
+
+Utvikler  
+
+ 
+
+Videokonferanse: Utvikling mot både backend og frontend. 
+
+  
+
+Frontend portal: Ledet utviklingen sammen med et lite team og jobbet både med utvikling, testing av løsninger og organisering.  
+  
+
+Resultat:  
+
+Videokonferanse: Modulen tok i bruk WebRTC teknologi og ble laget som en django app som ble integrert i eksisterende pattform.  
+
+  
+
+Frontend portal: Løsningen koblet sammen Open Edx konto sammen med NTNU konto og hentet ut kurs og artikler fra ulike APIer. Integrasjonen mot Open Edx krevde noe modifisering av selve Edx platformen i tillegg til implementering av flere mikro-frontend applikasjoner utviklet av Open Edx. Det ble også laget en plan for å utvide portalen til å håndtere program bestående av flere kurs som skulle resultere i et blockchain sertifikat.  
+
+ 
+
+Metode og teknologi:   
+Python, Javascript, Django, React, Redux, Docker, Wordpress API, SingleSignOn (SAML-protokoll)  
+
+ 
+
+ 
+
+2019-07 – 2020-08		NTNU Beta  
+
+ 
+
+Klient beskrivelse:   
+NTNU Beta er en organisasjon underlagt NTNU som driver med innovasjon, utvikling og testing av nye læringssystemer for NTNU. NTNU Beta skal blant annet opparbeide brukererfaring som grunnlag for teknologianskaffelser og utviklingsarbeid ved NTNU.  
+
+ 
+
+Prosjekt:   
+NTNU Beta ønsket seg en marketing applikasjon for å kunne vise fram alle prosjektene sine internt til personer tilknyttet NTNU.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rolle og ansvar:  
+
+Scrum Master og Utvikler  
+
+ 
+Prosjektet startet med 5 utviklere ledet av Simen i forbindelse med sommerjobb før Simen tok over utvikling og deployment alene ved siden av studier.  
+
+  
+
+Resultat:  
+
+Løsningen ble et CMS i MERN-stacken låst bak innloggingsmur mot Feide. Personer uten tilknytning til NTNU hadde mulighet til å opprette egne brukerkontoer hvor adgang til systemet kunne administreres av admin brukere. Applikasjonen ble deployet i docker containere bak en nginx reverse proxy.  
+
+ 
+
+Metode og teknologi:   
+MongoDB, Express, React, Node, Javascript, Docker, Linux, SSO (Feide) 
+
+  
+
+2020-01 - 2020-06		Zedge Europe AS (NTNU Bacheloroppgave)  
+
+ 
+
+Klient beskrivelse:   
+Zedge ble startet opp i Trondhiem i 2003 og utvikler mobilapplikasjoner som fokuserer på innholdsdistribusjon og personalisering. Deres flaggskip applikasjon (Zedge) har rundt 30 millioner måndelige aktive brukere.  
+
+ 
+
+Prosjekt:   
+Oppdragsgiver ønsket seg en applikasjon til Android hvor brukere kunne lage og dele innhold. Utover dette ble konseptutvikling og kravspesifikasjon overlatt til utviklingsteamet.  
+
+ 
+
+Rolle og ansvar:  
+
+Scrum Master og Utvikler  
+
+ 
+
+Simen var Scrum Master for et team på 7 personer og jobbet i tillegg med utvikling, testing og dokumentering gjennom hele prosjektet.  
+
+ 
+
+Resultat:  
+
+Løsningen ble en bilderedigeringsapp med ulike funksjoner for å kunne søke opp og dele innhold. Under utviklingen ble det lagt stort fokus på brukertesting, og ved overlevering av produktet til kunde hadde applikasjonen omtrent 3000 nedlastinger på Google Play.  
+
+ 
+
+Metode og teknologi:   
+Kotlin, Java, Android Studio, XML, Scrum, Google Design Sprint  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Utdannelse  
+
+2017-08 - 2020-06	Bachelor i informatikk, NTNU  
+
+  
+
+Arbeidserfaring  
+
+2020-09 – d.d.		Capgemini, Konsulent 
+
+2019-06 - 2020-08	NTNU Beta, Systemutvikler 
+
+ 
+
+Sertifiseringer 
+
+2020-10			AZ-900, Microsoft Azure Fundamentals 
+
+  
+
+Kurs  
+
+2020-08 – 2020-12 	Udemy, Microservices with NodeJS and React 
+
+2019-05 – 2019-07	Udemy, MERN Stack Front To Back: Full Stack React, Redux & Node.js 

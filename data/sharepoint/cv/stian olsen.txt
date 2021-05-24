@@ -1,0 +1,49 @@
+Stian er en kunnskapsrik konsulent og rådgiver med sin kjernekompentanse innen Microsoft-teknologier, spesielt på datasenter, klient og automatisering. Igjennom sin fartstid som driftskonsulent og spesialist i endepunktshåndtering har Stian tilegnet seg en bred kompetanseprofil som lar han se muligheter og potensiale der hvor ellers utfordringer og begrensninger identifiseres. Han brenner for å holde seg faglig oppdatert rundt nye teknologier og kommende endringer, og han synes det er givende å dele sin kunnskap og kompetanse for å gjøre hverdagen lettere for andre.
+
+Igjennom Stians 18-års erfaring fra IT-bransjen har han jobbet med kunder på nasjonalt og internasjonalt nivå, både i privat og offentlig sektor. Han har jobbet primært innen Modern Workplace og Microsoft 365 med hovedfokus innen klientadministrasjon basert på Microsoft Endpoint Manager (Configuration Manager / Intune), dette kombinert med scripting og automatisering. Med denne bakgrunnen har Stian de siste årene fokusert spesielt på å bistå kunder til å forenkle drift av endepunkter, kutte kostnader og i tillegg øke mulighetene for produktivitet og sikkerhet. Han er en naturlig rådgiver og sparringspartner for sine kunder og deres behov for bistand rundt innføring og integrering av moderne skyteknologier for å komplementere deres nåværende løsninger.
+
+Stian er en seniorkonsulent med 18 års erfaring innen drift og infrastruktur ved hjelp av Microsoft-teknologier. De siste årene har han jobbet som konsulent og bistått kunder i både inn- og utland.
+
+SKRIVESPERRE
+
+Han liker å ha det travelt rundt seg, og trives når det er mye å gjøre. Han er pålitelig og gjør alt for at kunden skal føle seg ivaretatt.
+
+Prosjektreferanser
+
+2019-11 - 2020-03 Tribune Publishing
+
+Prosjekt: Migrering fra IBM BigFix til MEMCM / Intune (GreenField)
+
+Stian Myhre Olsen
+
+Resultat: Forenklet klientdriften, kostnadene for infrastruktur ble kuttet med nærmere 80% på grunn av krav til mindre infrastruktur. I tillegg ble det lagt til rette for Co-Management og Cloud Management Gateway for å ytterligere sikre kundens klienter.
+
+Metode og teknologi: Microsoft Endpoint Configuration Manager, Intune, PowerShell og Azure Active Directory.
+
+2018-01 - 2020-03 Vinmonopolet
+
+Prosjekt:
+
+Resultat: Med Configuration Manager, Intune og Microsoft 365 fikk driftsteamet og brukerne en helt ny hverdag med sikre klienter, sikker dataflyt og en moderne måte å jobbe på.
+
+Metode og teknologi: Microsoft Endpoint Configuration Manager, PowerShell, Microsoft 365, Azure Active Directory. Stian leverte også en hel del spesialtilpassede installasjonsscript basert på PowerShell, scripts for automatisering av driftsoppgaver, samt et lengre prosjekt med migrering fra Windows 7 til Windows 10 med krav til oppetid underveis.
+
+2019-09 - 2020-01 Statens Havarikommisjon for Transport
+
+Resultat: Ved hjelp av Microsoft Endpoint Configuration Manager og Intune har kunden nå en hybrid løsning som tar i bruk moderne skyteknologier kombinert med on-premise infrastruktur for å drifte sine klienter. Brukerne fikk en smidig overgang til nytt operativsystem og Windows 10 er nå i daglig bruk blant samtlige ansatte.
+
+Metode og teknologi: Microsoft Endpoint Configuration Manager / Intune, PowerShell, Microsoft 365, Azure Active Directory.
+
+Utdannelse
+
+2003-07 - 2006-10 IKT driftsoperatør
+
+Arbeidserfaring
+
+2017-08 - 2020-09 CTGlobal
+
+2013-05 - 2017-07 Amedia Teknologi AS
+
+2008-01 - 2013-04 EDB Ergogroup/EVRY
+
+2007-03 - 2007-12 EDB Business Partner Norge AS

@@ -1,0 +1,171 @@
+Magnus er en systemutvikler med en bred erfaring fra ulike teknologier og sektorer. Han har sterk kompetanse i en rekke programmeringsspråk som C#, Java, Python, C og C++. I tillegg til dette har han også erfaring med JavaScript, HTML og CSS i frontend, og kan å benytte rammeverk som React, Vue, TypeScript og lignende for progressive web applikasjoner. For planlegging og samarbeid har han god erfaring med plattformer som Azure DevOps, Jira, Github og BitBucket for å gi kontinuerlig integrasjon og distribusjon av applikasjoner. 
+
+I sine siste prosjekt har han ledet  utvilking av kommersielt programvare, integrasjoner mellom skybaserte løsninger og applikasjoner, utviklet grensesnitt for trening, testing, validering og eksportering av forskjellige neurale nettverk og til slutt laget nettsider med integrasjon av egen API’er og bruk av tredjeparts API’er som Stripe for betaling.  
+
+Magnus har erfaring med å utvikle ny teknologi for kommunale tjenester, helsetjenesten og statens vegvesen. Han har jobbet i prosjekt som har krevd forskjellige roller der han har opparbeidet seg erfaringer med systemutvikling, analysering, maskinlæring og rådgiving. 
+
+Magnus er en strukturert og pålitelig systemutvilker med enorm kapasitet og gjennomføringsevne. Han er fremoverlent og kreativit i sin måte å se muligheter, og er rask oppdatert på nye teknologier og metoder i forskjellige forretninsområder for å finne bruksområder for å ta de i bruk. 
+
+ 
+
+Prosjektreferanser 
+
+2020-09 - pågående	Capgemini Trondheim 
+
+Klient beskrivelse: Tilbyr konsulenttjenester, teknologi, profesjonelle tjenester og outsourcing.  
+
+Prosjekt: Capacity, internt utviklingsprosjekt som skal gi avdelingen oversikt over konsulentenes kapasitet og kundeforespørsler. 
+
+Rolle og ansvar: Fullstack utvikler, UI/UX Designer 
+
+Magnus har laget UI/UX design av applikasjonen, og benyttet React i frontend for interaktive komponenter. I tillegg har han jobbet med å sette opp API i MVC for interaksjon mot  SQL databasen. 
+
+Resultat: Pågående prosjekt 
+
+Metode og teknologi: C#, React, Redux, Material UI,  ASP.NET, Microsoft SQL Server, Azure DevOps, Azure Pipelines, MVC, Adobe XD, JavaScript, HTML, CSS, REST-API, Adobe XD 
+
+ 
+
+ 
+
+ 
+
+2020-10 - 2020-12	Bodø Kommune 
+
+Klient beskrivelse: Bodø kommune ligger like nord for polarsirkelen, og byen Bodø er det største urbane området og byen i Nordland fylke, og den nest største byen i Nord-Norge. 
+
+Prosjekt: Analyse og visualisering av kommunale data 
+
+Rolle og ansvar: Dataanalytiker 
+
+Magnus har hentet ut data fra kuber og laget relasjoner mellom tabeller for å kunne gjøre analyse og visualisering av data. I tillegg har han bygget opp flere interaktive Dashboard i Power BI for rapportering av data. 
+
+Resultat: Flere gode visuelle og interaktive dashboard for rapportering av data. 
+
+Metode og teknologi: Visual Studio, SQL, Power BI, DAX 
+
+ 
+
+2020-03 - 2020-09	iSi AS 
+
+Klient beskrivelse: iSi er et konsulentselskap med system og fullstack utviklere og leverer programeringssjenster.  
+
+Prosjekt: Deteksjon av feil på rekkverk 
+
+Rolle og ansvar: Systemutvikler, Dataanalytiker, ML/AI utvikler 
+
+Magnus laget flere systemer som blant annet programvare for bildetaking med industrielle kamera langs veier. Klassifiseringsmodell for å separere bilder i datasett. Grafisk grensesnitt og CNN modell for deteksjon og klassifisering av skader på rekkverk langs veier. Til slutt et grafisk grensesnitt for å presentere data til oppdragstakere for reprasjon av skader. 
+
+Resultat: Bildetaking som synkes opp mot GPS og dynamisk parameter justering i sanntid. Klassifiseringsmodell med 99.96% nøyaktighet. CNN modell med høy nøyaktighet og sensitivitet for skader på rekkverk. 
+
+Metode og teknologi: AI, ML, CNN, Python, C++, Bildebehandling, OpenCV, Qt, HTML, CSS, Linux, Vue, JavaScript, REST-API, SQLite, Databehandling og visualisering, Numpy, Pandas, Seaborn, SciPy, Matplotlib, Pillow, JSON, AWS, Firebase, Firestore, Filebehandling 
+
+ 
+
+2019-11 - 2020-09	NordicCAD 
+
+Klient beskrivelse: NordicCAD er et ungt selskap, og jobber for å leverer nye løsninger til helsevesenet ved bruk av bildebehandling og kunstig intelligens. 
+
+Prosjekt: Semantisk segmentering av MR bilder (MST) 
+
+Rolle og ansvar: Systemutvikler, Fullstack utvikler 
+
+Magnus har vært med på implementeringen av en CNN modell for semantisk segmentering av MR bilder. I tillegg til dette har han utviklet en programvare hvor det nevrale nettverket blir tatt i bruk. På bakgrunn av dette utviklet han et grensensitt hvor MR bildene sammen med segmentering blir presentert og muligør for redigering og analyse. Til slutt laget han en nettside for å selge software produktet. 
+
+Resultat: Semantisk segmentering på MR bilder i verdensklasse, og et krafti brukervennlig grensesnitt som kirurger, radiologer, ortopeder og forskere kan bruke for å lokaliserer skader i 3D, samt planlegge inngrep. 
+
+Metode og teknologi: AI, CNN, MR, Python, C++, Bildebehandling, OpenCV, Pillow, UI/UX, Qt, PyQt, HTML, CSS, Linux, Linode, JavaScript, REST-API, MySQL, Stripe 
+
+ 
+
+2020-01 - 2020-06	NTNU 
+
+Klient beskrivelse: Norges teknisk-naturvitenskapelige universitet (NTNU) er et statlig universitet i Norge, og fra 2016 landets største. NTNU har hovedansvar for den høyere teknologiutdanningen i Norge, og har også et bredt tilbud innen naturvitenskap, medisin, humaniora og samfunnsvitenskap. 
+
+Prosjekt: Autonom inspeksjon for prosessindustrien med bruk av en firbent robot som bruker neurale nettverk 
+
+Rolle og ansvar: Prosjektleder, Systemutvikler, UI/UX designer, ML/AI utvikler 
+
+Laget en autonom industrirobot som kan optimalisere inspeksjonsoperasjoner i en prosessindustri. Dette med å eliminere unødvendig menneskelig interaksjon, da dette kan være farlig, komplisert og dyrt. Roboten benytter mye sensorikk for å hente informasjon fra omgivelsene, og ved bruk av planleggings algoriter og neurale nettverk kan den autnomt gjennomføre inspeksjonsoppdrag. 
+
+Resultat: Suksessfull prototype som beviste at at en konseptet kan industrialiseres. 
+
+Metode og teknologi: CNN, AI, Tensorflow, Keras, Objekt deteksjon og klassifisering,  Qt, PyQt, Edge-Server, Kommunikasjonsprotokoller, Bluetooth, Rx/Tx, TCP/IP, UDP, ZeroMQ, ROS, Bildebehandling OpenCV, Open3D, Sanntid system, Linux, Python, C, C++, HTML, CSS, Bootstrap, Mikrokontrollere, Arduino, Teensy, Robotikk, Kinematikk, Scrum 
+
+ 
+
+2019-09 - 2019-12	NTNU 
+
+Klient beskrivelse: Norges teknisk-naturvitenskapelige universitet (NTNU) er et statlig universitet i Norge, og fra 2016 landets største. NTNU har hovedansvar for den høyere teknologiutdanningen i Norge, og har også et bredt tilbud innen naturvitenskap, medisin, humaniora og samfunnsvitenskap. 
+
+Prosjekt: Plukk og plasser robot som bruker nevrale nettverk 
+
+Rolle og ansvar: Prosjektleder og systemutvikler, AI Utvikler 
+
+Bygde, og utviklet en robust og allsidig plukk og plasser robot som ved hjelp av konvolutionale nevrale nettverk kunne klassifisere og detekter objekt i arbeidsområdet. Roboten kjører i sanntid, og kan etter 2 timer gjenkjenne et nytt objekt, og plassere det riktig. 
+
+Resultat: Suksessfull prototype som beviste at at en konseptet kan industrialiseres. 
+
+Metode og teknologi: CNN, AI, Tensorflow, Objekt deteksjon og klassifisering ,Egde-Server,Kommunikasjonsprotokoller,TCP,UDP,Rx/Tx,REST-API, SQL, Bildebehandling, OpenCV, Sanntid system, Java, Python, JavaScript, HTML, CSS, Linux, Mikrokontrollere, Arduino, Teensy, JSON 
+
+ 
+
+2019-06 - 2019-08	Ekornes 
+
+Klient beskrivelse: Ekornes ASA er en norsk møbelprodusent. Selskapet er mest kjent for varemerkene Stressless® og Svane®. Selskapet er nordens største møbelprodusent. 
+
+Prosjekt: Fremtidens supply chain for å møte kundens behov 
+
+Rolle og ansvar: Prosjektleder  
+
+Dette var et tverrfaglig prosjekt, som inkluderte personer med bakgrunn fra, økonomi, supply chain, design og teknologi. Magnus rolle utenom å være prosjektleder, var analysere dataen fra en nasjonal markedsundersøkelse, samt innhente informasjon om hvordan andre-hands markedet var for Ekornes. I tillegg til dette ble det undersøkt hvordan Blockchain og CRM kunne hjelpe Ekrones med å ta steget videre i digitalisering av selskapet. 
+
+Resultat: Funn av mange mangler som skaper problemer for Ekornes, både internt og eksternt. 
+
+Metode og teknologi: LEAN, Data analysering, Pandas, Datavisualisering, Matplotlib, Seaborn,  Web scraping, Beautifulsoup, Selenium, Blockchain, CRM, Python  
+
+ 
+
+2018-09 - 2020-06	NTNU 
+
+Klient beskrivelse: Norges teknisk-naturvitenskapelige universitet (NTNU) er et statlig universitet i Norge, og fra 2016 landets største. NTNU har hovedansvar for den høyere teknologiutdanningen i Norge, og har også et bredt tilbud innen naturvitenskap, medisin, humaniora og samfunnsvitenskap. 
+
+Prosjekt: Godkjenning av øvinger, og undervisning 
+
+Rolle og ansvar: Lærerassistent 
+
+Han jobbet i NTNU i hele studieperioden. Hvor han har være lærerassistent for mangfoldige emner. Der har han undervist, godkjent øvinger og vært veileder for store semester oppgaver. 
+
+Resultat: Bedre veiledning og kommunikasjon. 
+
+Metode og teknologi: Java, C++, Python, Linux, PLS, Mikrokontrollere, Algoritmer ,TCP/IP, Bildebehandling, Inverse kinematikk og reguleringsteknikk 
+
+Utdannelse 
+
+2017-08 - 2020-06	Bachelor i Automasjon og robotikk 
+
+Norges teknisk-naturvitenskapelige universitet – NTNU 
+
+2011-08 - 2014-06	Elektro grunnkurs & Automatiseringsteknikk 
+
+Romsdal videregående skole 
+
+ 
+
+Arbeidserfaring 
+
+2020-09 - Pågående	Capgemini, Konsulent 
+
+2020-03 - 2020-08	iSi AS, Systemutvikler, ML/AI - utvikler 
+
+2019-11 - 2020-09	Nordiccad AS, Systemutvikler, Full-stack utvikler 
+
+2019-06 - 2019-08	Ekornes, Prosjektleder 
+
+2017-09 - 2020-06	NTNU, Lærerassistent 
+
+2014-09 - 2016-03	Nyhamna, Norske Shell AS, Instrumenttekniker 
+
+2011-06 - 2014-08	Hustadmarmor AS, OMYA, Automatiker 
+
+ 

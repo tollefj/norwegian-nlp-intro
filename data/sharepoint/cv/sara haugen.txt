@@ -1,0 +1,144 @@
+Sara er utdannet sivilingeniør og utvikler med erfaring fra web og Windows. Hun har i flere år jobbet med ulike programmeringsspråk som Matlab, Python, Java og Javascript. Hun har i tillegg arbeidet innen flere ulike fagfelt og med ulike teknologier og applikasjoner. 
+
+Som person har Sara en profesjonell fremtoning og jobber svært godt både selvstendig og i team. Hun takler godt nye utfordringer og oppgaver av ulik karakter, og klarer fort å sette seg inn i nye situasjoner. Sara er omgjengelig og hyggelig å prate med både på jobb og i sosiale sammenhenger. Hun har evne til å tilpasse seg og kommunisere med personer på alle nivåer.  
+
+ 
+
+Prosjekterfaringer  
+
+2019/Sept –	Vår Energi, applikasjonskonsulent 
+
+Klientbeskrivelse: Vårr Energi er det største uavhengige lete- og produksjonsselskapet på norsk sokkel. De opererer olje- og gassproduksjon over hele sokkelen, med felt i Barentshavet, Norskehavet og Nordsjøen. Selskapet er dedikert til å lete, utvikle og produsere ressurser og reserver fra deres robuste portefølje av lisenser. 
+
+Prosjekt: Digitalisering, support og utvikling av Vår Energi sin forretningsapplikasjnsportefølje inkludert systemer for håndtering av produksjonsdata (PDMS), allokering, borerapporter, laboratoriedata og sanntidsmonitorering. 
+
+Roller og ansvar: Støtter og gir råd til forretningsbrukere. Hovedansvar for applikasjonene Schlumberger Avocet, OsiSoft PI, Mikon og OFM. PI er et datahåndteringsverktøy i sanntid, mens de andre applikasjonene brukes til brønnallokering og rapportering. Medansvarlig for Trace (sanntidsmonitorering) og LIMS (system for laboratoriedata). 
+
+Resultat: Konsolidering av to PI-systemer, integrasjons mot ny reportinghub-nettside og nytt rapporteringsformat, oppgradering av Avocet og LIMS. 
+
+Metodikk og teknologi: Python, Excel, Visual Basic, MySQL, OsiSoft PI, Schlumberger Avocet, Mikon, Eigen Ingenuity Trace, LIMS, OFM. 
+
+ 
+
+2019/Feb – 2019/Juni	Sirkus Shopping, webutvikler 
+
+Klientbeskrivelse: Sirkus shopping er et av Trøndelags største kjøpesenter. 
+
+Prosjekt: Utvikle et bookingsystem for arbeidsplasser i et kontorlandskap på kjøpesenteret, samt booking av kontor, møterom og parkering.  
+
+Roller og ansvar: Scrum Master, utvikling, design. 
+
+Resultat: En nettside med et bookingsystem med integrert kalender og betalingsløsning via kort og vipps, samt at en verifikasjons-sms og -epost blir utsendt med en link til dagens dørkode som kun er synlig for den bookede dagen. 
+
+Metodikk og teknologi: Python, Django, Javascript, Vue, Azure DevOps. 
+
+ 
+
+2019/Jan – 2019/Mai	FFI, NTNU, bacheloroppgave	 
+
+Klientbeskrivelse: Forsvarets forskningsinstitutt (FFI) er hovedinstitusjonen ansvarlig for forsvarsrelatert forskning i Norge. FFI adresserer et bredt spekter av forskningsemner som spenner fra bistand fra operasjonelle enheter til støtte for nasjonal sikkerhetspolitikk via forsvarsplanlegging og teknologi.  
+
+Prosjekt: Utforske mulighetene for Bluetooth Low Energy kommunikasjon mellom Android-telefoner og Raspberry Pi’s i Heimevernet. 
+
+Roller og ansvar: Utvikling, rapport. 
+
+Resultat: Et generisk kommunikasjonsbibliotek i Java for Blutooth Low Energy kommunikasjon samt en testapplikasjon. 
+
+Metodikk og teknologi: Java, Android, BLE, Linux, Github, Latex. 
+
+ 
+
+2019/Jan – 2019/April	NTNU, Programvareutvikling	 
+
+Klientbeskrivelse: NTNU er Norges største universitet.  
+
+Prosjekt: Et system der startup-bedrifter kan finne engasjerte ansatte med den kompetansen de trenger - og hvor ildsjeler kan søke på startup-jobbene de drømmer om. I tillegg skal systemet også gjøre det enkelt for startup-bedrifter å være synlig for investorer, samtidig som det skal være enkelt for investorer å komme i kontakt med startup-bedrifter for et eventuelt samarbeid. 
+
+Roller og ansvar: Scrum Master, utvikling, design. 
+
+Resultat: En nettside med registrering for bedrifter,  jobbsøkere og investorer, med søkefunksjonalitet. 
+
+Metodikk og teknologi: Python, Django, SQLite, HTML, CSS, GitLab. 
+
+ 
+
+2018/Aug – 2018/Nov	NTNU, Prosjektarbeid I	 
+
+Klientbeskrivelse: NTNU er Norges største universitet.  
+
+Prosjekt: Utvikle et content management system (CMS) som støtter gjennomlesing av innhold før publisering via redaktører. 
+
+Roller og ansvar: Utvikling, design. 
+
+Resultat: En nettside hvor autoriserte brukere kan legge ut innhold til gjennomlesing for deretter å publiseres av en redaktør.  
+
+Metodikk og teknologi: Python, Django, SQLite, HTML, CSS, GitLab. 
+
+Page Break
+ 
+
+2018/Jun – 2018/Aug	Genus AS, summer intern 
+
+Kundebeskrivelse: Genus AS er et norsk programvareselskap som utvikler Genus Apps. Konsulentavdelingen (Professional Services), leverer løsninger rettet mot integrasjon, forretningsanalyse og -støtte, informasjonshåndtering, virksomhetsstyring og saksbehandling basert på Genus Apps. 
+
+Prosjekt: Utvikle en prototyp på et økonomisystem for utarbeidelser av periodevise budsjetter og prognoser, forvaltning av grunnlagsdata, og rapportering/dataanalyse. 
+
+Roller og ansvar: Utvikler, arkitekt, design, analyse. 
+
+Resultat: En protoyp på et økonomisystem samt  økonomianalyse som ble brukt som innsalg til kunden. 
+
+Metodikk og teknologier: Genus Apps, Excel, MySQL, Trello.  
+
+ 
+
+2017/Jan – 2017/Jun	Equinor, NTNU, Masteroppgave 
+
+Klientbeskrivelse: Equinor er et internasjonalt energiselskap og har en dominerende posisjon på norsk sokkel. Equinor sin virksomhet omhandler blant annet leting og produksjon av petroleum samt forskning og fornybar energi. 
+
+Prosjekt: Modellere en gassløft-brønn for å finne den optimale dynamiske balansen mellom injisering av gass og produksjonen av olje, for å stabilisere produksjonen av en brønn på Heidrun-feltet. 
+
+Roller og ansvar: Teknisk ansvarlig, dataprosessering, simulering. 
+
+Resultat: En statisk og en dynamisk gassløftmodell ble implementert i Matlab for å kunne simulere svingningene i trykket i brønnen for å simulere ulike løsninger for stabilisering. 
+
+Metodikk og teknologi: Matlab, Excel, Latex. 
+
+Utdanning  
+
+2017/Aug – 2019/Jun	Bachelor i Informatikk, NTNU Trondheim. 
+
+2012/Aug – 2017/Jun	Master i Petroleumsfag, NTNU Trondheim. 
+
+2015/Aug – 2016/Mai	Utveksling i Petroleumsteknologi, Texas Tech, USA. 
+
+ 
+
+Arbeidserfaring  
+
+2019/Sept –	Capgemini Norge AS, Juniorkonsulent 
+
+2018/Jun – 2018/Aug	Genus AS, Summer Intern 
+
+Sommer 2015-2019	Forskerfabrikken, kursleder 
+
+ 
+
+Kurs  
+
+18.11 – 21.11.2019Software Engineering Design Principles 
+
+30.09 – 04.10.2019	React, Redux & Router Course og Progressive Web Apps and JavaScript 2018 
+
+ 
+
+Sertifiseringer  
+
+07.05.2020AZ-301 Microsoft Azure Administrator 
+
+17.01.2020Professional Scrum Master 1 
+
+15.11.2019MS 70-480 Programming in HTML5 with JavaScript and CSS3 
+
+24.10.2019	AZ-900 Azure Fundamentals 
+
+ 

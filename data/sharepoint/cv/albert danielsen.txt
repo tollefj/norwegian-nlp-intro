@@ -1,0 +1,160 @@
+Albert er en svilingeniør innen kybernetikk og robotikk, utdannet ved NTNU, med spesialisering innen embedded systems. Han har opparbeidet seg bred erfaring innen programvareutvikling fra sine prosjekter hos tidligere arbeidsgivere og som konsulent. 
+
+Nylig har Albert jobbet i et prosjekt for Altera Infrastructure, et stort skipsrederi, med mål om å digitalisere arbeidsflyten ved modifikasjoner på skip i drift. Hans bidrag i dette prosjektet består i front-end utvikling av en responsiv og brukervennlig løsning i Vue, samt back-end utvikling i .NET Core i et domain driven design-mønster. Gjennomførelsen av prosjektet ble gjort ved bruk av Azure DevOps og agile arbeidsmetoder. 
+
+Tidligere har Albert bidratt på et stort prosjekt for Sjøfartsdirektoratet. Prosjektet, titulert APS (Automatisering av Personell Sertifikat), tok sikte på å automatisere registrering og utdeling av sertifikater til sjøfolk som opererer i norske farvann. Løsningen ble utviklet med React, Azure Functions og message queues, med en microservice-arkitektur. 
+
+Alberts kompetanse inkluderer IoT-utvikling, programmering av mikrokontrollere og design av hardware og kretskort, kompetanse han har styrket ved praktisk gjennomføring av prosjekt og deltidsjobb for SINTEF, ved å utvikle hardware og software for et maskinelt kalibreringsverkøy for fjærstivhet og en modulær robotisk gripeenhet. Han også erfaring med AR/VR platformer og datavisualisering, gjennom sommerjobb hos Equinor. Mer spesifikt har han jobbet med Microsoft HoloLens, Samsung HMD Odyssey og PowerBI. 
+
+Teknologier og verktøy Albert behersker og liker å arbeide med er bl.a.: Azure DevOps, .NET, Git, Vue, React, JavaScript, CSS, HTML, Power BI, Unity, SolidWorks, Autodesk Eagle, Python, C++ og Linux. Han holder sertifiseringer i: Azure Administrator, C# og HTML5, JavaScript, CSS3. 
+
+Albert er en konsulent med lidenskap for digitaliseringsoppgaver og tar imot alle oppgaver med godt mot. Han finner mye glede i å samarbeide med andre, jobber alltid strukturert og brenner for å levere gode resultater. 
+
+ 	 
+
+Page Break
+Prosjektreferanser 
+
+2020-03 - 2020-09	Altera Infrastructure 
+
+Klient beskrivelse: En av de største skipsrederne i verdenProsjekt: ModifikasjonsdatabaseRolle og ansvar: Full stack utviklerOvertakelse av et eksisterende system og utviklingen av en ny løsning for gjennomføring av modifikasjoner på marine fartøy i drift. Systemet tillater brukere å foreslå, få innsyn i og følge opp viktige beslutninger som del av modifikasjoner på fartøy.Metode og teknologi: Agile DevOps, Azure DevOps, Azure, .NET, Vue, Bootstrap, Cypres 
+
+  
+
+2019-09 - 2020-03	Teekay Petrojarl AS 
+
+Klient beskrivelse: En av de største skipseierne i verden. 
+
+Prosjekt: Intern webside 
+
+Rolle og ansvar: Full stack utvikler 
+
+Ansvar inkluderer front end- og back end utvikling av en webapp kalt project portfolio. Løsningen muliggjør oppfølging av prosjekter i selskapet, og legger til rette for bedre informasjonsdeling på tvers av avdelinger. 
+
+Metode og teknologi:  Vue, Bootstrap, .NET, DevOps 
+
+  
+
+2019-11 - 2020-01	Sjøfartsdirektoratet (SDIR) 
+
+Klient beskrivelse: Statlig etat med ansvar for at kvalifikasjons- og sikkerhetsstandarder for skip i norske farvann blir møtt 
+
+Prosjekt: Automatisk personellsertifikat (APS)  
+
+Rolle og ansvar: Full stack utvikler 
+
+Ansvar inkluderer front end og back end utvikling av et system for automatisk utstedelse av sertifikater til skipspersonell gjennom en web portal.  
+
+Metode og teknologi: React, .NET Core, DevOps 
+
+2018-09 - 2019-06	SINTEF Sealab 
+
+Klient beskrivelse: Et av europas største forskningsinstitutter. Avdelingen for robot- og visjonsystemer. 
+
+Prosjekt: Dexterous gripping. 
+
+Rolle og ansvar: Masteroppgave. 
+
+Arbeidet foregikk i SINTEF prosjektet iProcess med å lage en finmotorisk robothånd for håndtering av deformerbare råvarer som fisk og tomat. 
+
+Resultat: En robothånd med finmotoriske egenskaper. 
+
+Metode og teknologi: C++, Python, FreeRTOS. 
+
+  
+
+2018-09 - 2019-04	Hoff Handel 
+
+Klient beskrivelse: Kjøpesenter i Trondheim. 
+
+Prosjekt: Booking av lese-/arbeidsplass ved Sirkus Shopping. 
+
+Rolle og ansvar: Utvikler. 
+
+Ansvar for å lage modeller i backend i Django og nettsidefunksjonalitet og utseende i Vue. Hadde fokus på å oppfylle kundens ønsker og brukte scrum-metodikk for å gjennomføre prosjektet. 
+
+Resultat: Webapplikasjon for booking av arbeidsplass. 
+
+Metode og teknologi: Django, Python, Vue, Javascript, SQLite, Scrum. 
+
+  
+
+2018-09 - 2019-03	SINTEF Ocean 
+
+Klient beskrivelse: Et av europas største forskningsinstitutter. Avdelingen for marinteknisk forskning. 
+
+Prosjekt: Stivhetssjekker. 
+
+Rolle og ansvar: Teknisk ansvarlig. 
+
+Teknisk utførende i prosjektet ut ifra avtalt teknisk spesifikasjon, med oppgave å programmere en testrigg for avstiving og verifikasjon av stivhet i fortøyningsfjærer. 
+
+Resultat: En automatisk og tidsbesparende rigg for testing av fortøyningsfjærer. Kunden fikk oppfylt sine krav og riggen brukes i dag i forskning. 
+
+Metode og teknologi: Elektronikk, C++, Processing. 
+
+  
+
+2018-06 - 2018-08	Equinor 
+
+Klient beskrivelse: Norsk olje- og energiselskap. Blant verdens 50 største selskaper i markedsverdi. 
+
+Prosjekt: Digitaliseringsinitiativer i drift nord. 
+
+Rolle og ansvar: Summer intern. 
+
+Blant initiativene var digital feltarbeider; bruk av nettbrett og HoloLens i felt, digital tvilling; software modeller av fysiske anlegg og visualisering av data; live datafremstilling fra anlegg med Power BI. Brukte ingeniørfaglige metoder og lærte prosjektarbeid gjennom samarbeid med operasjonsenhetene i selskapet. 
+
+Resultat: Interaktiv brukerguide for HoloLens, live Power BI dashboard og digitalt veikart. Dashboardet brukes i dag i vedlikeholdsavdelingen for å tilgjengeliggjøre data, mens brukerguiden brukes for å lære opp personell i bruk av HoloLens med digitale tvillinger. 
+
+Metode og teknologi: Microsoft 365, Office 365, Power BI, Teams. 
+
+  
+
+ 
+
+Utdannelse 
+
+2017-01 - 2019-12	M.Sc. Kybernetikk og robotikk – Tilpassede datasystemer	 
+
+NTNU 
+
+2014-01 - 2017-12	B.Sc. Elektroingeniør - Automatisering	 
+
+NTNU 
+
+ 
+
+Arbeidserfaring 
+
+2019-09	Capgemini 
+
+2018-09 - 2019-03	SINTEF Ocean 
+
+2018-06 - 2018-08	Equinor 
+
+2013-07 - 2019-05	Coop AS 
+
+ 
+
+Kurs 
+
+2019-11	Software Engineering Design Principles 
+
+2019-09 - 2019-10	React, Redux & Router Kurs 
+
+ 
+
+Sertifiseringer 
+
+MCSA - Web Applications 
+
+70-480: Programming in HTML5 with JavaScript and CSS3 
+
+70-483: Programming in C# 
+
+70-486: Developing ASP.NET MVC 4.5 Web Applications 
+
+AZ-900: Microsoft Azure Fundamentals 
+
+Microsoft Certified Azure Administrator Associate 

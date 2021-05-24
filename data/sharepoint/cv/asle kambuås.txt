@@ -1,0 +1,97 @@
+Asle er en erfaren rådgiver, med mer enn 20 års erfaring innen IT bransjen. Han har jobbet med en rekke tjenester og løsninger rundt Microsofts produktportefølje, og har lang erfaring som arkitekt og rådgiver. 
+
+Asle var en av de første ”black-belts” på Office365 i Norge, og en av 3 i Norge med sertifiseringen ”Business Value Planning Services” – en Microsoft sertifisering som fokuserer utelukkende på arkitektur og rådgiving mot forretningsverdi. Han står samtidig bak en av Norges mest solgte konsept innen produktivitet de siste 10 år, og har i denne sammenheng vært delaktig i å innføre samhandlingsportaler (SharePoint) for nærmere 200 kunder i Norge.  
+
+De siste årene har Asle turnert Europa på oppdrag av Microsoft, for å levere workshops innen Azure til noen av deres største kunder. 
+
+Asle har i tillegg til samhandlingsløsninger som Office365, jobbet med Dynamics CRM og informsajonssikkerhet. Han kjører kurs og workshops innen AI og Maskin Læring, og holder foredrag innen Cloud (med hovedfokus på Azure). 
+
+Med denne erfaringen i bunn, trives Asle aller best i prosjekter der han kan jobbe med ”helheten”. Han liker godt rollen som ”djevelens advokat”, noe han bruker ofte for å tvinge frem de beste løsningene for kundene.    
+
+ 	 
+
+Prosjektreferanser 
+
+2020	Skatteetaten 
+
+Prosjekt: Forstudierapport Office365 
+
+Rolle og ansvar: Rådgiver 
+
+Bistand med utvikling av forstudierapport for Office365 til Skatteetaten. Arbeidet ble fokusert rundt å bygge en helhet for hva Office365 og Teams skal inneholde. Herunder sikkerhet, adopsjon, opplæring, Informasjonsarkitektur og teknologi.  
+
+ 
+
+2019	NINA (Norsk Institutt for Naturforskning) 
+
+Prosjekt: Innføring av Office365 
+
+Rolle og ansvar: Arkitekt og rådgiver  
+
+Overgang til skyteknologi for NINAs 280 brukere. Alle brukere skal flytte store deler av dagens arbeidsprosesser inn i Office365. Herunder ligger mye fokus på arkitektur og «What to use when». Asle har jobbet mye med ledelsen i NINA, for å hjelpe dem i å bryte elefanten opp i mindre deler. Målsetningen har vært å effektivisere måten ansatte jobber på, med å ta i bruk størst mulig grad av standardisert teknologi. 
+
+Resultat: Alle brukere er nå flyttet over til skybasert dokumenthåndtering. Neste steg i prosjektet er informasjonsflyt og sosial samhandling.  
+
+Metode og teknologi: Office 365 
+
+ 
+
+2019	Norsk Olje og Gass 
+
+Prosjekt: Digital transformasjon 
+
+Rolle og ansvar: Rådgiver og arkitekt  
+
+Etablering av ny digital flate for Norsk Olje og Gass. Løsningen skal benytte standardisert skuteknologi i størt mulig grad, og skal håndtere både interne arbeidsprosesser samt kommunikasjonen mot alle deres medlemmer. Herunder ligger løsninnger for prosjektstyring, medlemshåndtering, databehandling som understøtter personvernlovgivningen etc. 
+
+Metode og teknologi: Strategi, Office365, Dynamics CRM, Bruker-Adopsjon, sikkerhet med Azure Information Protection og Cloud App Security.  
+
+ 
+
+2017	A Bygg 
+
+Klient beskrivelse: A Bygg er en entrepenør i Oslo området, som omsetter for litt i overkant av 1 Mrd per år.   
+
+Prosjekt: Digital Transformasjon 
+
+Rolle og ansvar: Arkitekt og Rådgiver  
+
+A Bygg var en av Norges første selskap, som gikk «all-in» i skyen. Dette betydde i praksis at alle filservere, AD servere og økonomisystemer ble transformert til skyen. Selskapet har i dag kun printere som fysisk infrastruktur. Asle var ansvarlig for å designe «alt annet enn ERP» for løsningen. Herunder oppsett av Azure, Cloud print, samhandling og prosjekthåndtering. Samt Integrasjoner mot ERP. 
+
+Resultat: Kunden transformerte med dette alle sine arbeidsprosesser, ved hjelp av skyteknologi 
+
+Metode og teknologi: Azure, Microsoft365  
+
+ 
+
+2017	Microsoft 
+
+Prosjekt: Azure Ranger 
+
+Rolle og ansvar: Foredragsholder 
+
+I regi av Microsoft ble det levert workshops og foredrag for hosting-partnere for å øke kompetanse på Microsoft Azure og Office 365. Dette før å øke bruken av skyteknologi til deres kunder 
+
+Resultat: Levert workshop og foredrag til over 20 partnere i hele Norge. 
+
+Metode og teknologi: Workshop/foredrag 
+
+ 
+
+ 
+
+Utdannelse 
+
+1998-2000	System Ingeniør (MCSE Windows 2000) - Næringsakademiet 
+
+ 
+
+Arbeidserfaring 
+
+2018-08 - 	CapGemini 
+
+2017-08 - 2018-07	Advania AS 
+
+2015-11 - 2017-08	LumaGate AS 
+
+2007-06 - 2015-11	ErgoGroup/EDBErgoGroup/Evry 

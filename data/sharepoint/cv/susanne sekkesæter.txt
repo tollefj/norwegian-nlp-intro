@@ -1,0 +1,55 @@
+Susanne er en juniorkonsulent med bakgrunn fra Industriell økonomi og teknologiledelse ved NTNU. 
+Gjennom studiet har hun spesialisert seg på økonomisk optimalisering av prosesser, analyse og 
+beslutningsstøtte rettet mot ulike markeder og teknologiske anvendelser. Hun har god kjennskap til 
+optimalisering, objektorienterte språk, algoritmekonstruksjon og simulering av prosesser.
+Susanne er en nysgjerrig og hardtarbeidende person som evner godt å sette seg inn i nye konsepter og 
+teknologier, og lærer raskt. Hun er flink på å kommunisere, er kundeorientert og lar seg lett engasjere. 
+Som person er Susanne positiv, strukturert og løsningsorientert. Hun er en dedikert person som alltid 
+streber etter å levere høy kvalitet, og arbeider hardt for å finne gode og kreative løsninger. Hennes 
+lidenskap er å jobbe for å utvikle bedre løsninger, og bruke teknologi til å skape verdier for sine kunder i fremtiden.
+Prosjekterfaringer
+2019/Jan – 2019/Jun Skagerak Energi og Sintef
+Kundebeskrivelse: Skagerak Energi er et norsk vannkraftselskap med hovedkontor i Porsgrunn. Selskapet har en 
+gjennomsnittlig kraftproduksjon på ca 6 TWh årlig, med over 200.000 nettkunder, og er blant landets største 
+produsenter av elektrisitet. 
+Prosjekt: Masteroppgave ved NTNU i samarbeid med Sintef og Skagerak Energi. I oppgaven analyseres 
+handelsstrategier for vannkraftprodusenter som deltar i markeder med kontinuerlig handel. Oppgaven omfatter 
+implementering av et simuleringsoppsett, forståelse av strukturen på elektristitetsmarkedet, samt viktige aspekter ved 
+vannkraftplanlegging. 
+Roller og ansvar: Masterstudent
+Resultat: Masteroppgaven leveres i juni.
+Metodikk og teknologier: 1, Python, Simuleringsteknikker, LaTeX
+ 
+Susanne 
+Sekkesæter 
+Juniorkonsulent 
+https://www.sintef.no/programvare/shop/ 1
+ 2018/Jun – 2018/Aug Equinor forsyningsbase Stavanger
+Kundebeskrivelse: Equinor forsyningsbase Stavanger er ansvarlig for å forsyne Equinor sine 12 offshore 
+installasjoner i Nordsjøen Sør. 
+Prosjekt: Summer Internship
+Roller og ansvar: Planlegging og utvikling av logistikkløsninger for base-enheten som forsyner offshore installasjoner 
+i Nordsjøen i henhold til Equinors styringssystem og HMS-retningslinjer. 
+Resultat: Økt kompetanse og leveranse av en «beste praksis»-rapport
+Metodikk og teknologier: Office 365, SAP, Lean, HMS-verktøy, etiske retningslinjer 
+Utdanning
+2014/Aug – 2019/Jun Master i Industriell økonomi og teknologiledelse, NTNU 
+2016/Aug – 2017/Aug Utvekslingsår, University of Bologna 
+2012/Aug – 2014/Jun Studiespesialisering realfag med toppidrett innen triatlon, St. Svithun VGS
+Arbeidserfaring 
+2018/Aug - Capgemini Norge AS, Juniorkonsulent
+2018/Jun - 2018/Aug Equinor, Summer Internship
+2015/Jun – 2016/Aug Mexico Restaurant, Servitør 
+2013/Jan – 2015/Jan Specsavers, Butikkmedarbeider deltid 
+2011/Jan – 2014/Jun Madla Svømmeklubb, Svømmekurs-trener
+2011/Jan – 2014/Jun Ro-Ma Svømmeklubb, Hovedtrener 
+Kompetanse
+C++, Python, Matlab, Xpress/Mosel, Office 365, SAP, Lean 
+Språk
+Norsk, Engelsk og Italiensk 
+S
+Verv og fritid
+2018/Okt - 2019/Feb Indøkrevyen 2019, Frivillig medarbeider
+2018/Aug-2018/Aug OBOS//Festningen 2018, Frivillig medarbeider
+2015/Jun - 2015/Nov UKA, Frivillig medarbeider
+2011/Jan - 2015/Des Triatlonutøver på Landslaget, Norges Triatlonlandsla

@@ -1,0 +1,219 @@
+Med mer enn 20 års erfaring har Ståle opparbeidet en betydelig erfaring som rådgiver, løsningsarkitekt og systemutvikler.  
+
+Han har lang erfaring fra utviklingsprosjekter og har spisskompetanse på arbeidsmetodikk, system- og tjenestebasert utvikling, sikkerhet, forvaltning, drift og implementering av nettbaserte løsninger. Ståle setter seg raskt inn i kundens utfordringer og får gode tilbakemeldinger fra de kundene han har vært hos.  
+ 
+I de siste 8 årene har han levert integrasjonsløsninger på skyplattformen Azure og ofte i sammenheng med Office 365. I ett av sine senere prosjekter har han hatt rolle som teknisk ansvarlig for Uno prosjektet hos Sintef.  
+ 
+For tiden jobber han i et moderniseringsprosjekt for Sjørfartsdirektoratet som i tillegg til etablering av moderne kontainerbasert mikrotjenestearkitektur omfatter reetablering av eksisterende løsninger til sky – såkalt «lift and shift».  
+ 
+Ståle er en pådriver for god systemarkitektur, testmetodikker, innføring av smidige prosesser og bruk av kjente mønstre og praksiser. Ståle har blant annet deltatt på det anerkjente programmet for arkitekter LEAP.  
+
+Han har også lang erfaring med innføring av smidige prosesser og ble tidlig scrumsertifisert. I arbeidshverdagen henter han inspirasjon fra metodikker innen fossefall, scrum og kanban.  
+ 
+Han trives i rollen som løsningsarkitekt og har hatt ansvar for sommerstudenter og veiledet nye ansatte inn i konsulentrollen. 
+
+Som systemkonsulent i Felleskjøpet Agri  hadde han ansvar for å bygge portalløsninger med integrasjon mot ERP, datavarehus og rapportering. Dette var løsninger som ble utviklet i tett samarbeid med blant annet kommunikasjon, økonomi, IT, butikk, fabrikk, innkjøp, kornmottak og logistikk. Dette var innovative prosjekter som er brukt som teknologireferanse av Microsoft.  
+ 
+
+Page Break
+ 
+
+ 
+
+Prosjektreferanser 
+
+2020-05 - 	Sjøfartsdirektoratet (SDIR) 
+
+Klient beskrivelse:  
+Sjøfartsdirektoratet er et forvaltningsorgan underlagt Nærings- og fiskeridepartementet og Klima- og miljøverndepartementet. Sjøfartsdirektoratet er forvaltnings- og tilsynsmyndighet for arbeidet med sikkerhet for liv, helse, miljø og materielle verdier på fartøy med norsk flagg og utenlandske fartøy i norske farvann.  
+
+Prosjekt:  
+Erstatte dagens tilsynssystem. 
+
+Rolle og ansvar:  
+Systemutvikler og løsningsarkitekt  
+
+I forbindelse med moderninsering av Sjøfartsdirektoratets IT plattform skal dagens tilsynssystem reetableres på ny kontainerbasert plattform i sky. Prosjektet ET (Erstatt Tilsynssystemet) er et av flere parallelle moderniseringsprosjekter.  
+Prosjekter er bygd opp rundt smidige prosesser og har fokus på kontinuerlig integrasjon og utrulling. 
+ 
+
+Metode og teknologi:  
+Azure Devops, C#, Azure, Mikrotjenester, Identityserver, Kubernetes, Terraform  
+
+2019-01 - 2020-04	Sintef 
+
+Klient beskrivelse:  
+SINTEF er et norsk forskningsinstitutt, organisert som en frittstående allmennyttig stiftelse. SINTEF driver forskning innen teknologi, naturvitenskap og samfunnsvitenskap.  
+
+Prosjekt:  
+SINTEF besluttet i 2016 å flytte deres virksomhetsportal ut i skyen med Office 365 og Azure Ståle var ansvarlig for videreutvikling av denne løsningen. UNO-prosjektet er SINTEF sitt prosjektsamarbeid -og styringsverktøy. Løsningen inneholder skreddersydde elementer som effektiviserer prosesser knyttet til prosjektarbeid i SINTEF. 
+
+Rolle og ansvar:  
+Løsningsarkitekt  
+
+Som arkitekt og utvikler har Ståle  ansvaret for  applikasjonsforvaltningen og videreutvikling arbeidsrom og prosjektrom på O365.  Ståle bistår med videreutvikling og forvaltning av de ulike løsningene for Sintef sin virksomhets- og prosjektløsning i Office 365. Han har jobbet med integrasjoner mellom SharePoint Online, Azure og løsninger on-premises (BizTalk/Maconomy). Han jobber også med modernisering av portalene i SharePoint online fra klassiske områder til moderne områder med bruk av SharePoint Framework og moderne front-end rammeverk som React og Office UI Fabric. 
+
+Metode og teknologi:  
+Azure Devops, C#, Azure  
+
+2018-10 - 2018-12	Lindbak 
+
+Klient beskrivelse:  
+Lindbak Retail Systems er et norsk selskap som er et av Nordens ledende og innovative miljøer innenfor utvikling av IT-løsninger til store kjeder innenfor varehandelen. Med det siste innen teknologi lykkes vi svært godt med å digitalisere varehandelen med fremtidsrettede løsninger som håndterer forretningsprosessene både i butikk, på nett og nye kanaler som treffer forbrukeren.   
+
+Prosjekt:  
+Innleid utvikler i del av arkitekturteamet for å videreutvikle på tjenesten som tilbyr grensesnitt for varekatalogoppdateringer 
+
+Rolle og ansvar:  
+Utvikler og en del av arkitektteamet 
+
+Metode og teknologi:  
+DevOps, C#, .NET, Visual Studio, Web API, Microsoft SQL Server, utvikling og enhetstest, Servicebus-integrasjoner 
+
+2017-04 - 2018-12	Nordbohus 
+
+Klient beskrivelse:  
+Nordbohus er en av Norges største boligleverandører med forhandlere over hele landet. Nordbohus har vært en sentral del av det norske boligmarkedet siden 1985, og kjedens forhandlere er lokale selskaper som bygger verdier lokalt. 
+
+Prosjekt:  
+Moderniseringsprosjekt med fokus på den digital arbeidsplassen. Forenkling av prosesser med digital verktøy. Kvalitetssystem, salgsstøtte, prosjekthotell og integrasjon med diverse fagsystemer. 
+
+Rolle og ansvar:  
+Løsningsarkitekt og utvikler 
+
+Metode og teknologi:  
+Office 365, SharePoint Online, Azure Functions, Azure Cosmos DB, Azure AD 
+
+ 
+
+2017-01 - 2017-06	Orkla Asa 
+
+Klient beskrivelse:  
+Orkla ASA er et av Norges største børsnoterte selskaper. Orkla er en ledende leverandør av merkevarer til dagligvarehandel, storhusholdning, faghandel, apotek og bakerimarkedet.  
+
+Prosjekt:  
+Engage er navnet på Orklas digital arbeidsplass på O365 plattformen. Prosjektet ble startet 2014 og lansert i 2016. 
+
+Rolle og ansvar:  
+Systemutvikler. Løpende oppgaver knyttet til forvaltning og videreutvikling av den digitale arbeidsplassen 
+
+Metode og teknologi:  
+Office 365, SharePoint Online, Azure Functions, Azure AD 
+
+2014-08 - 2017-01	Sparebank1 gruppen 
+
+Klient beskrivelse:  
+SpareBank 1 Gruppen har et administrativt ansvar for samarbeidsprosessene i SpareBank 1-alliansen, der teknologi, merkevare, kompetanse, felles prosesser / utnyttelse av beste praksis og innkjøp står sentralt.  
+
+Prosjekt:  
+Corporate start-up selskapet SMB LAB AS ble etablert av SpareBank1 SMN for å utvikle nye innovative konsepter mot bedriftsmarked. Selskapet eies av flere banker i SpareBank 1 alliansen.  
+
+Prosjektet var en finansportal rettet mot SMB markedet. 
+
+Rolle og ansvar:  
+Løsningsarkitekt og utvikler. CQRS arkitektur på Azure plattformen med fokus på sikkerhet og integrasjon mot ulike bank- og regnskapstjenester. 
+
+Metode og teknologi:  
+CQRS, Azure AD, Azure DevOps, O365, Microsoft SQL, Web API, Serverless, Mikrotjenester 
+
+2014-01 - 2014-07	Norsk Helsenett SF 
+
+Klient beskrivelse:  
+Norsk Helsenett SF er et norsk statsforetak etablert og eid av Helse- og omsorgsdepartementet. NHNs oppdrag er å levere og videreutvikle nasjonal IKT-infrastruktur for samhandling mellom aktørene i helse- og omsorgssektoren. 
+
+Prosjekt:  
+Ny internett- og ekstranettløsning på SharePoint 2013 
+
+Rolle og ansvar:  
+Løsningsarkitekt og utvikler. Ansvaret for arkitektur og utviklingen av ny responsiv internett- og ekstranettløsning på SharePoint 2013 plattformen - www.nhn.no. 
+
+Metode og teknologi:  
+SharePoint, Bootstrap, C#, Kanban, JavaScript, HTML5 
+
+2014-08 - 2014-12	HENT 
+
+Klient beskrivelse:  
+HENT er en nordisk entreprenør som utvikler og utfører alle typer byggeprosjekter. 
+
+Prosjekt:  
+Etablering og forvaltning av intra- og ekstranettløsning basert på SharePoint 2013 og O365. 
+
+Rolle og ansvar:  
+Løsningsarkitekt og utvikler 
+
+Metode og teknologi:  
+Utvikling og forvaltning av nytt SharePoint 2013 intranett og senere O365. 
+
+2014-10 - 2014-12	LYDIA 
+
+Klient beskrivelse:  
+Lydia bidrar gjennom sine løsninger til at mange av Norges største eiendommer forvaltes og utvikles effektivt. Virksomheten leverer programvare som benyttes av eiendomsforvaltere,driftspersonell og renholdspersonale. 
+
+Prosjekt:  
+Virksomhetssystem  
+
+Rolle og ansvar:  
+Utvikler med fokus på ytelse samt kvalitetssikring via regresjonstester 
+
+Metode og teknologi:  
+C#, TDD, MSTest, NUnit, Web API 
+
+2013-10 - 2013-12	Revisorgruppen 
+
+Klient beskrivelse:  
+Revisorgruppen er en landsdekkende kjede av selvstendige revisjonskontorer. Utfører tjenester innenfor revisjon, regnskap og rådgivning.  
+
+Prosjekt:  
+Dokumentforvaltningssystem  
+
+Rolle og ansvar:  
+Løsningsarkitekt og utvikler. Redesignet et eksisterende dokumentforvaltningssystem som hadde vokst ut av sine grenser. En løsning basert på O365. En kundeløsning med forvaltning av revisjonsdokumenter. 
+
+Metode og teknologi:  
+C#, O365, SharePoint 
+
+2012-08 - 2013-01	Nord-Trøndelag Fylkeskommune (NTFK) 
+
+Klient beskrivelse:  
+ 
+
+Prosjekt:  
+Oppgradering og videreutvikling av Nord-Trøndelag fylkeskommunes intra- og internettløsning. Oppgradering fra SharePoint 2007 til SharePoint 2010  
+
+Rolle og ansvar:  
+Prosjektleder og løsningsarkitekt knyttet til oppgradering av SharePoint 2007 løsning til SharePoint 2013.  
+
+Metode og teknologi:  
+C#, SharePoint 2007, SharePoint 2013 
+
+ 
+
+ 
+
+Utdannelse 
+
+1999-01 - 2000-01	IT Prosjekt, Næringsakademiet	 
+
+ 
+
+Arbeidserfaring 
+
+2020-04 - 2019-01	TietoEvry, Sjefskonsulent 
+
+2012-04 – 2018-12	Acando, Seniorkonsulent 
+
+2008-01 - 2012-04	Felleskjøpet, Systemkonsulent 
+
+1999-01 - 2008-01	Bennett, Systemutvikler 
+
+ 
+
+Kurs 
+
+2018-01 – 2018-01	Microsoft LEAP 
+
+2017-04 - 2017-04	Microsoft Advanced analytics 
+
+2008-05 - 2008-05	Scrum master 
+
+ 

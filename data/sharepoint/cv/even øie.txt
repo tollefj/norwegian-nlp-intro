@@ -1,0 +1,46 @@
+Even er utdannet sivilingeniør ved NTNU med en 5-årig mastergrad i Kommunikasjonsteknologi og digital sikkerhet. Gjennom studiene har Even utviklet ferdigheter og kompetanse om kommunikasjonssystemer og nettverk, samt nettverksbaserte tjenester og applikasjoner for ulike behov til aktører i kommersiell og offentlig sektor. Even mestrer tekniske utfordringer og utfordringer som krever forståelse av samspillet mellom tekniske, økonomiske og andre samfunnsaspekter. 
+
+Even har bred forståelse for teknologi, og har erfaring med systemutvikling. Underveis i studiet ble Even kjent med objektorientert programmering. Han har forståelse for flere ulike programmeringsspråk, som inkluderer Java, Python, SQL og Javascript.  
+
+Gjennom prosjekter på universitetet og i sommer-/deltidsjobb har Even fått god erfaring med å jobbe i team, og er kjent med både Scrum og Github. Han har gode kommunikasjonsferdigheter, både muntlig og skriftlig. Even er strukturert, selvmotivert og er ikke redd for å prøve og feile.  
+
+ 
+
+Page Break
+Prosjektreferanser 
+
+2018-07 - 2018-10	Kantega AS – Internt prosjekt 
+
+Prosjekt: Sikkerhetstesting av internt prosjekt. Even hadde ansvaret for å verifisere at en web-applikasjon oppfylte OWASP-kravene.  
+
+Teknologi brukt: Github, SQL  
+
+ 
+
+2017-01 - 2018-07	BankID RA 
+
+Prosjekt: Del av forvaltningsteamet på BankID RA. Even sine arbeidsoppgaver på systemområdet BankID RA var å automatisere funksjonelle tester ved hjelp av testverktøyet Selenium. Dette innebar både omskriving av eksisterende tester, men også utvikling av nye tester. For å skrive nye tester måtte han sette seg inn i funksjonaliteten i applikasjonene som skulle testes, og han måtte sette seg inn i kodebasen til applikasjonene. De automatiserte testene krevde forståelse av HTML, CSS, Javascript og Java.  
+
+Teknologi brukt: Java, Selenium, Javascript, HTML, CSS, Eclipse IDE, Scrum 
+
+ 
+
+Utdannelse 
+
+ 
+
+2015-08 - 2021-02	5-årig master (sivilingeniør) i Kommunikasjonsteknologi og digital sikkerhet	 
+
+NTNU: Norges teknisk-naturvitenskapelige universitet 
+
+ 
+
+ 
+
+Arbeidserfaring 
+
+ 
+
+2021-03	Capgemini Norge AS 
+
+2017-01 - 2018-10	Kantega A

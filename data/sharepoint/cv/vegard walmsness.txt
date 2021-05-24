@@ -1,0 +1,196 @@
+Vegard er en erfaren konsulent og rådgiver med 15 års fartstid. Vegards hovedfokus er å bistå virksomheter med å ta i bruk riktig verktøy for å være bedre rustet mot moderne trusler og forbedre sitt eget sikkerhetsnivå. Samtidlig ser han viktigheten av å gi hver enkelt ansatt muligheten til å jobbe mer produktivt og ha fleksibilitet på tross av introduksjon av ny teknologi og sikkerhetsmekanismer. Vegard har derfor inngående kjennskap til tekniske løsninger innenfor identitet og tilgangsstyring, informasjonsbeskyttelse, beskyttelse mot eksterne trusler, administrasjon av mobile enheter samt innsikt i og styring av bruk av skybaserte applikasjoner og tjenester. Det kulturelle aspektet er vel så viktig som det tekniske og Vegard besitter evner til å gjennomføre leveranser der slike ulike krav og forventninger ivaretas. 
+
+Fra et produktperspektiv så har Vegard inngående teknisk kunnskap til Microsoft teknologi og løsninger som Microsoft 365, Office 365 og Windows 10. Dette er komponenter som inngår i et Modern Workplace scenario der produktivitet og sikkerhetsprinsipper går på tvers av enheter, applikasjoner og innhold. Videre dekker Vegards kompetanseområde etablering av en fremtidsrettet informasjonsarkitektur og brukeradopsjon med samhandlingsbaserte verktøy fra Microsoft. Vegard har i tillegg erfaring med migrering av lokal infrastruktur og tjenester til Microsoft Azure samt  driftserfaring av server, klient og sentral infrastruktur i større komplekse miljø. 
+
+Vegard kan bekle roller som teknisk ansvarlig, løsningsdesign, systemarkitekt, ressurshåndtering og koordinasjon internt og eksternt. 
+
+Som person så er Vegard fremoverlent, tydelig og alltid åpen for utfordringer. Han har stor interesse i å sette seg inn i nye fagomåder og ser på teknologisk endring og effektivisering som en nødvendighet framfor et hinder. Vegard er opptatt av å tenke langsiktig og gjøre ting riktig den første gangen slik at unødvendig teknisk gjeld kan unngås. Vegard har gode kommunikasjonsevner og sosiale egenskaper som gjør han til et viktig bidrag i både større og mindre team og grupperinger. 
+
+Vegard bidrar også til et positivt arbeidsklima der det er viktig å ha det gøy samtidlig som man er profesjonell i arbeidsoppgavene. 
+
+ 	 
+
+Page Break
+ 
+
+Prosjektreferanser (utvalg) 
+
+2020-03 - pågående	Santander 
+
+Klient beskrivelse: Bank og finans 
+
+Prosjekt: Modern Workplace 
+
+Rolle og ansvar: Rådgiver Microsoft Security 
+
+Overgang til Microsoft 365 med hovedvekt på Microsoft Teams, OneDrive for Business, Azure Information Protection og Mobile Application Management. Klassifisering og beskyttelse av informasjon. 
+
+Resultat: Mer effektive verktøy for samhandling der beskyttelse av data og informasjon ivaretas. 
+
+Metode og teknologi: Azure Active Directory Conditional Access, Azure information Protection, Intune MAM, Retention and Sensitivity labels. 
+
+ 
+
+2019-11 - pågående	Equinor 
+
+Klient beskrivelse: Et av verdens ledende olje- og energiselskaper. 
+
+Prosjekt: Move2Cloud 
+
+Rolle og ansvar: Technical Cloud Architect 
+
+Migrering og re-platform av eksistende applikasjonsportefølje on-premise til en moderne skybasert plattform i form av Microsoft Azure. 
+
+Resultat: En mer fremtidsrettet og skalerbar applikasjonsplattform. 
+
+Metode og teknologi: Microsoft Azure IaaS og PaaS 
+
+ 
+
+2019-08 – 2019-11	Norsk Institutt for Naturforskning (NINA) 
+
+Klient beskrivelse: Uavhengig stiftelse som forsker på natur og samspillet natur samfunn. 
+
+Prosjekt: Overgang til Office 365 
+
+Rolle og ansvar: Teknisk rådgiver, utførende, opplæring 
+
+Rådgivning mot IT og forretning rundt valg av tjenester i Office 365. Informasjonsarkitektur og samhandling med SharePoint Online. Adopsjon for sluttbrukere. Kjøring av kurs og opplæring for ansatte i NINA. 
+
+Resultat: Ny og bedre plattform for samhandling og deling av informasjon 
+
+Metode og teknologi: Office 365, SharePoint Online, OneDrive for Business 
+
+ 
+
+2019-04 - 2019-05	Teknotherm 
+
+Klient beskrivelse: Leverer kjølesystemer til skipsfart og offshore 
+
+Prosjekt: Etablering av ny informasjonsarkitektur 
+
+Rolle og ansvar: Teknisk ansvarlig. 
+
+Etablering av ny informasjonsarkitektur for Teknotherms ansatte basert på Office 365 og hovedsakelig SharePoint Online. Ny gruppestruktur for samhandling og dokumentbehandling på tvers av avdeling, faggrupper og land. Oppfølging av sikkerhetsprinsipper og krav. 
+
+Resultat: Mer effektiv og sikker samhandling for Teknotherms ansatte.  
+
+Metode og teknologi: Office 365, SharePoint Online, Azure Active Directory 
+
+ 
+
+2019-03 - 2019-04	Sykehuspartner 
+
+Klient beskrivelse: Sykehuspartner leverer tjenester innen IKT, prosjekt og HR til alle sykehusene i Helse Sør-Øst. 
+
+Prosjekt: Valg av ny Privileged Access Management (PAM) løsning 
+
+Rolle og ansvar: Koordinator underleverandører 
+
+Følge opp aktuelle underleverandører i en anbudsfase, krav til dokumentasjon, gjennomføring av møter. 
+
+Resultat: Bedre beslutningsgrunnlag for valg av endelig løsning.  
+
+Metode og teknologi: Diverse PAM leverandører 
+
+ 
+
+2019-02 - 2019-03	Firesafe 
+
+Klient beskrivelse: Totalleverandør innen brannsikring. 
+
+Prosjekt: Automatisering flytting av data fra SharePoint til eksterne partnere 
+
+Rolle og ansvar: Teknisk ansvarlig. 
+
+Design og implementasjon av løsning basert på Azure Logic Apps for flytting av dokumenter lagret i SharePoint Online og transport til eksterne samarbeidspartnere. 
+
+Resultat: Fjernet behov for manuelle rutiner rundt dokument flytting og utsendelser til samarbeidspartnere.  
+
+Metode og teknologi: Office 365, SharePoint Online, Azure Logic Apps, integrasjon 
+
+ 
+
+2019-01 - 2019-02	Bodø kommune 
+
+Klient beskrivelse: Bodø er fylkeshovedstaden i Nordland og er Nord-Norges nest største by. 
+
+Prosjekt: Brukeradopsjon og kurs Office 365. 
+
+Rolle og ansvar: Teknisk bidragsyter og kursholder. 
+
+Utrulling av tjenester for kommunens ansatte. Drive adopsjon og onboarding. Bistand til opplæring av nye funksjoner i kommunens bruk av Office 365. 
+
+Resultat: Ny samarbeidsplattform for Bodø kommunes ansatte for økt produktivitet og bedre samhandling.  
+
+Metode og teknologi: Office 365, Microsoft Teams, Azure Active Directory, SharePoint Online 
+
+ 
+
+2017-02 - 2017-05	HENT 
+
+Klient beskrivelse: HENT er en prosjektutvikler og entrepenør med nordisk nedslagsfelt. 
+
+Prosjekt: Ny driftsplattform for ansattes PCer og mobile enheter. 
+
+Rolle og ansvar: Teknisk ansvarlig 
+
+Design, implementasjon og oppfølging av ny driftsplattform basert på Microsoft Intune for ansattes PCer og mobile enheter. Brukeradopsjon, utrulling av applikasjoner, konfigurasjonskontroll og sikkerhetsstyring. 
+
+Resultat: En skybasert driftsplattform for enklere vedlikehold, mer kontroll og oppfølging av utstyr og mobile enheter. 
+
+Metode og teknologi: Enterprise Mobility + Security (EM+S), Microsoft Intune, Azure Active Directory, Windows 10, iOS, Android 
+
+ 
+
+  
+
+ 
+
+Utdannelse 
+
+2003 - 2005	Høyskolekandidat Drift og Vedlikehold av EDB-systemer	 
+
+Høyskolen i Sør-Trøndelag 
+
+1999 - 2003	Cand.Mag. Informatikk 
+
+NTNU 
+
+ 
+
+Arbeidserfaring 
+
+2018-08 -	Capgemini 
+
+2017-08 - 2018-08	Advania Norway 
+
+2013-03 - 2017-08	Lumagate AS 
+
+2012-03 - 2013-03	EVRY ASA 
+
+2010-12 - 2012-03	EDB ErgoGroup ASA 
+
+2006-11 - 2010-12	ErgoGroup 
+
+2006-01 - 2006-11	BW Gas ASA 
+
+2005-09 - 2006-01	Telio Telecom AS 
+
+1998-08 - 1999-08	Forsvaret 
+
+ 
+
+Sertifiseringer 
+
+2019-07 -	Microsoft 365 Certified: Modern Desktop Administrator Associate 
+
+2019-05 -	Microsoft 365 Certified Fundamentals 
+
+2014-03 - 	MCSA: Windows Client 
+
+2013-01 -	MCSA: Windows Server 2008/2012 
+
+2012-11 - 	MCTS: Administering and Deploying System Center Configuration Manager 
+
+2012-03 -	Apple Certified Associate – Mac Integration 

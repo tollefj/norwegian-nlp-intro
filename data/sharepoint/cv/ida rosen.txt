@@ -1,0 +1,169 @@
+Ida er en sosial og allsidig prosjektleder. Med bakgrunn som dataingeniør har hun bred forståelse for IT-systemer og teknologiens muligheter. Hun liker utfordringer og har en god løsningsforståelse. Ida er ressurssterk og kreativ i måten hun angriper problemstillinger. Med sin analytiske sans, evner hun å forstå ulike problemstillinger, vurdere disse, anbefale løsninger, og forankre tiltakene fortløpende. Som prosjektleder er hun opptatt av å kjenne hver enkelt prosjektdeltagers styrker og begrensninger slik at hun vet hvilke deltakere som er best egnet til å løse problemet. Ida er engasjert og setter høye krav til kvalitet i eget arbeid. Hun jobber godt selvstendig og i samarbeid med andre, og har stor arbeidskapasitet og gjennomføringsevne. Ida har gode kommunikasjonsevner og er genuint opptatt av å skape tillit og et trygt miljø for de hun jobber med. Hun er glad i å ta initiativ og jobber aktivt med å skape gode relasjoner og tillitt til kunder og medarbeidere. Ida er opptatt av å gjøre ord til handling og er tilhenger av ordtaket ”walk the talk”. Ida får gode tilbakemeldinger fra kunder, og er ofte en konsulent de ønsker å samarbeide med igjen.  
+
+Ida har erfaring som daglig leder i et IT-selskap som driver med programvareutvikling, salg og leveranser av gjestenettløsninger. Der har hun hatt ansvar for selskapets daglige drift med ansettelser, oppfølging og utvikling av personal, utarbeide budsjett- og salgsmål samt hatt kontroll på selskapets resultat og likvide midler. Hun har også hatt ansvar for å ha kontakt og utvikle sammarbeidet med noen av de største IT-selskapene i Norge og andre forretningsforbindelser. Ida oppnår gode resultater ved å være ansvars- og kvalitetbevist, strukutrert, engasjert og løsningsorientert. Under hennes ledelse økte selskapets kundeportefølje og årlige lisensinntekter med hhv. 68% og 82%. 
+
+ 
+
+Som prosjektleder har Ida ledet interne produktutviklingsprosjekt. Hun har erfaring med å utarbeide prosjektsøknader for økonomisk tilskudd til utviklingsprosjekt med dokumentasjon av formål, hovedmål og delmål samt prosjektrapportering. Hun har også vært ansvarlig for overholdelse av rutiner hva gjelder lover og forskrifter vedrørende databehandling (GDPR) samt tilhørende dokumentasjon. I tillegg har hun ledet leveranser hvor hun ofte har utført implementeringen på Cisco WLC, Cisco Meraki og MikroTik.  
+
+Ida har også opparbeidet seg god kunnskap innenfor ProArc, en løsning for dokumentkontroll, prosesstøtte, drift og vedlikehold spesielt rettet mot prosjektering i olje- og gassbransjen, bygg og anlegg. I perioden hun jobbet med ProArc var hennes oppgaver å installere løsningen på servere og klienter med integrasjon mot Office, Outlook og SharePoint samt oppdatering av data i databasen ved bruk av SQL. Hun hadde også ansvar med å holde kurs for administratorer, superbrukere og sluttbrukere. 
+
+Ida engasjerer seg ofte i det sosiale på arbeidsplassen som er positivt for arbeidsmiljøet. 
+
+ 
+
+Prosjektreferanser (utvalg fra Sky Labs) 
+
+2015-08 - 2020-06	Sky Labs AS 
+
+Klient beskrivelse: Sky Labs AS er utvikler og leverandør av enkle og brukervennlige gjestenettløsninger. Sky Labs har solid erfaring med å forvalte WiFi nett i B2B-markedet for alt fra små kaféer og kontorer til store bedrifter, kjøpesentre og kommuner. 
+
+Prosjekt: FOU prosjekt. Intern produktutvikling av WiFi tjeneste med stor vekt på kompabilitet, personvern, databehandling og kommunikasjon.  
+
+Rolle og ansvar: Daglig leder/Prosjektleder  
+
+Ansvarlig for søknad, planlegging, rapportering og oppfølging av utviklings prosjekt i tillegg til testing og dokumentasjon av funksjonallitet. 
+
+Resultat: Smidig og brukervennlig tjeneste som har ført til en økning av kunder og lisensinntekter for selskapet. Selve bruken av tjenesten har økt med 200% på tre år, fra rundt 200.000 til 600.000 pålogginger i måneden. De ansatte har også fått en bredere forståelse vedr.databehandling med de lover og regler som gjelder.  
+
+Metode og teknologi:  
+
+2017-03 - 2019-12	Color Line 
+
+Klient beskrivelse: Color Line er Norges største rederi i internasjonal passasjer- og godstrafikk til og fra Norge, og blant Europas ledende rederier innen nærskipsfart. Color Line transporterer årlig nesten fire millioner passasjerer. 
+
+Prosjekt: Sky id WIfi tjeneste på 6 stk terminaler med differensiert løsning for ansatte og reisende. Ansattportal skulle ha integrasjon mot besøkssystem, løsning for reisende skulle ha datainnsamling på forskjellige språk. Tjenesten skulle også implementeres på 3 skip. 
+
+Rolle og ansvar: Prosjektleder, ansvarlig for kunde/partner-kontakt, planlegging, møter, konfigurering av portal-løsning. 
+
+Resultat: Wifi løsning distribuert på alle lokasjoner med innsamlng av persondata ihht.GDPR og bedre oversikt over gjestenett bruk. Kontorene fikk en egen løsning integrert med besøkssystem.  
+
+Metode og teknologi: MikroTik, Sky id Wifi 
+
+2018-04 - 2019-12	Asker kommune 
+
+Klient beskrivelse: Asker er en kommune i Norge 
+
+Prosjekt: Sky id WIfi tjenester med integrasjon mot blant annet FEIDE og RADIUS. Ønsket også en WIFI4EU løsning.  
+
+Rolle og ansvar: Prosjektleder, ansvarlig for kunde/partner-kontakt, planlegging, møter, konfigurering av portal-løsning og oppsett av løsning mot Cisco WLC. 
+
+ 
+
+Resultat: Vellykket prosjekt og kunden er veldig fornøyd med en smidig pålogging for sine innbyggere.   
+
+Metode og teknologi: Cisco WLC, Sky id Wifi 
+
+2017-12 - 2018-04	KLP Eiendom AS (5 kjøpesenter) 
+
+Klient beskrivelse: KLP Eiendom er en av Norges største aktører innen forvaltning, utvikling og drift av eiendom. 
+
+Prosjekt: Sky id WIfi tjeneste på 5 stk kjøpesenter med integrasjon mot Boostcom kundeklubb. 
+
+Rolle og ansvar: Prosjektleder, ansvarlig for kunde/partner-kontakt, planlegging, møter, konfigurering av portal-løsning. 
+
+Resultat: Fornøyd kunde med økning i gjestenett-brukere og betydelig økning i kundeklubb base, med stort fokus på GDPR. 
+
+Metode og teknologi: MikroTik, Sky id Wifi 
+
+2016-02 - 2016-09	Choco AS 
+
+Klient beskrivelse: I dag kalt Bitastad AS, eier og utvikler selskaper innen mat og drikke. Porteføljen består av serveringskonseptene Jordbærpikene, SOT bar&burger, Sabrura og BigBite. 
+
+Prosjekt: Utrulling 35 kafeer (Jordbærpikene) og 4 stk restauranter. 
+
+Rolle og ansvar: Prosjektleder/teknisk ansvarlig, konfigurerte maskinvaren (gateway og aksesspunkt) til alle lokasjonene med tilhørende portal-løsning. 
+
+Resultat: Fornøyd kunde med større innsikt i sine besøkende og bredere markedsføringsmuligheter. 
+
+Metode og teknologi: MikroTik, Sky id Wifi 
+
+ 
+
+Prosjektreferanser (utvalg fra tiden i ProArc) 
+
+2014-10 - 2015-02	Wilhelmsen Holding ASA 
+
+Klient beskrivelse: Wilhelsen er Norges største selskap innen maritim virksomhet og ett av de største i verden. De leverer produkter og tjenester til over halvparten av verdens handelsflåte, samt mannskap og teknisk kompetanse til noen av verdens største skip. 
+
+Prosjekt: Oppgradering til ProArc 6.7.5 med replikering mot Korea. 
+
+Rolle og ansvar: Deployer/Primærkonsulent  
+
+Ansvarlig for oppgraderinger av ProArc og sette opp replikering mot Korea. 
+
+Resultat: Vellykket oppgradering med arkivløsninger som replikerer mot Korea. 
+
+Metode og teknologi: ProArc, SSL, IIS, Microsoft SQL server, SharePoint, Office 365, Active Directory, Windows server 2008/2012. 
+
+2014-05 - 2014-12	Idemitsu Petroleum 
+
+Klient beskrivelse: Idemitsu Petroleum Norge er en del av Idemitsu-konsernet som er et av Japans største energiselskaper og driver med utvinning av råolje og naturgass. 
+
+Prosjekt: Opprette nytt Geoscience arkiv for historisk brønndata. 
+
+Rolle og ansvar: Primærkonsulent/Teknisk rådgiver  
+
+Ansvarlig for oppretting av nytt arkiv og importere historisk brønndata samt legge til rette for integrasjon mot ArcGIS kartløsning. 
+
+Resultat: Nytt Geoscience arkiv med metadata og funksjsoner som kunden ønsket samt en importert base av historisk brønndata. Ref.kunde: «Dine ProArc løsninger har totalt snudd opp ned på hva jeg trodde var mulig, men som jeg ønsket skulle være mulig. " 
+
+Metode og teknologi: ProArc, Microsoft SQL server, SharePoint, Office 365  
+
+2014-01 - 2014-06	DOF Subsea - Global 
+
+Klient beskrivelse: DOF Subsea er et internasjonalt selskap som leverer integrerte prosjektstyrte og konstruerte subsea-løsninger til olje- og gassindustrien over hele verden. 
+
+Prosjekt: Installasjon av ProArc 6.7.4 Globalt. 
+
+Rolle og ansvar: Deployer/Primærkonsulent 
+
+Ansvarlig for installasjon av ProArc i Norge og global utvidelse av systemet som innebar lokasjoner i UK, Perth, Huston og Rio med tilhørende arkiv som skulle brukes globalt. 
+
+Resultat: Vellykket og spennende prosjekt hvor kunden er svært fornlyd. "…anslår at systemet fører til en årlig besparelse på minst 30 millioner kroner" – artikkel i Finansavisen 02.03.2015. 
+
+Metode og teknologi: ProArc, SSL, IIS, Microsoft SQL server, SharePoint, Office 365, Active Directory, Windows server 2008/2012. 
+
+2013-08 - 2013-12	IK Stavanger 
+
+Klient beskrivelse: IK Stavanger as er leverandør av nisjetjenester og produkter for rør og rørledninger til olje- og gassindustrien. 
+
+Prosjekt: Installasjon av ProArc 6.7.3 
+
+Rolle og ansvar: Deployer/Primærkonsulent/Kursholder 
+
+Ansvarlig for installasjon av ProArc 6.7.3, konsulentbistand og kurs for de ansatte. 
+
+Resultat:. 
+
+Metode og teknologi: ProArc, SSL, IIS, Microsoft SQL server, SharePoint, Office 365, Active Directory, Windows server 2008/2012. 
+
+ 
+
+ 
+
+Utdannelse 
+
+2009-08 - 2012-06	Bachelor i Dataingeniør	 
+
+Høgskolen i Sør-Trøndelag 
+
+ 
+
+Arbeidserfaring 
+
+2020-08 - 	Capgemini AS 
+
+2015-08 - 2020-08	Sky Labs 
+
+2012-08 - 2015-08	Software Innovation 
+
+ 
+
+Kurs 
+
+2016-09 - 2017-06	Mini MBA 
+
+2020-08 - 2020-09		Prince2 Foundation 
+
+ 

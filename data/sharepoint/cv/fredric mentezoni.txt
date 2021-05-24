@@ -1,0 +1,83 @@
+Fredric er en systemutvikler som  de siste tre årene har hatt fokus på .NET rammeverket.  Han er en kvalitetsbevisst og ærekjær utvikler med sans for kvalitet. Han har også  god kompetanse innen ulike javascriptrammeverk og testing.  Fredric har jobbet både med frontend og backend, og trives med det. Fredric har erfaring fra både nyutvikling og forvaltning av webapplikasjoner.  
+
+Fredric er arbeidssom og fullfører det han har sagt han skal gjøre. Han er opptatt av høy kvalitet i arbeidet. Han er flink til å se behovet til kunden og se løsninger fra ulike angrepsvinkler. Han tar ofte ansvar i prosjekter og sørger for at oppgaver blir fulgt opp og gjennomført.  
+
+Han liker å sette seg inn i nye teknologier og deler gjerne av sin kompetanse andre. 
+
+Fredric har opparbeidet seg en helhetlig kompetanse innen systemuitvikling og lærer nye ting raskt. Han er en meget omgjengelig person som kommer godt overens med de fleste.  
+
+ 
+
+ 
+
+Prosjektreferanser 
+
+2020-05 - 	Ranheim Paper & Board 
+
+Klient beskrivelse: Ranheim Paper & Board er et selskap som produserer papir og pappemballasje. 
+
+Prosjekt: Adminportal for manuelle kvalitetstester av returpapp 
+
+Rolle og ansvar: Utvikler 
+
+Resultat: Ranheim Paper & Board har nå en løsning for å registrere manuelle test data for returpapp. Denne dataen brukes for å måle kvaliteten på leveransene og analysere informasjonen for å kunne kalibrere automatiske tester og finne korellasjoner mellom ulike data knyttet til ulike kvalitetskriterier.  
+
+Metode og teknologi:  ASP.NET C#, Vue.js, MS SQL, Identity Server, Azure Devops, Azure Pipelines, Visual Studio, Git 
+
+ 
+
+2017-06 - 2020-04	Devinco 
+
+Klient beskrivelse: Devinco AS er en ledende leverandør av integrerte mobile løsninger hvor kjernekompetansen er teknologi som reduserer mengden papirarbeid på kontoret, ute på oppdrag og i bilen. 
+
+Prosjekt: Konvertere windows applikasjon til en web-tjeneste.  
+
+Rolle og ansvar: Utvikler 
+
+I rollen som utvikler har jeg jobbet med å utvikle både frondend og backend delen av websiden. Jeg har skrevet GUI- og unittester til tjenesten. Jeg har hatt hovedansvaret for utviklingen og delegert oppgaver til to andre utviklere som også har vært med å jobbe med tjenesten. 
+
+Resultat: Ferdig publisert løsning i Azure. Dette vil gjøre at Devinco kan gå fra ‘On- premises’ løsning til cloud for nye og etter hvert gamle kunder. Dette vil gi lavere kostnader for Devinco. Det vil også gi enklere vedlikehold da man har én installasjon i stedet for mange, og Devinco har selv kontroll på når denne skal opptaderes. 
+
+Metode og teknologi: MSSQL, Visual Studio, Jira, DevExtreme, .NET Framework, .NET Core, JavaScript, Jquery, html, CSS, less.js 
+
+ 
+
+2015-06 - 2017-05	Eplehuset 
+
+Klient beskrivelse: Eplehuset er Norges ledende Apple Reseller og Apple Service Provider.  
+
+Prosjekt: Jobbet som kundekonsulent. Besvare Apple relaterte problemer per mail og telefon.  
+
+Rolle og ansvar: Kundekonsulent  
+
+I rollen som kundekonsulent hadde jeg ansvar for å besvare hendvendelser per telefon. Dette kunne være hjelp med Mac og iOS eller kjøpshjelp.  
+
+ 
+
+2008-08 – 2013-07		Telia  
+
+Klient beskrivelse: Telia er Norges nest største mobil operatør.  
+
+Rolle og ansvar: Kundekonsulent 
+
+I rollen som kundekonsulent hadde jeg ansvar for å besvare hendvendelser per telefon. Den første tiden var dette kun relatert til faktura og kjøps hjelp. Etter hvert ble det også en del teknisk support, både for innstalasjon av mobilt bredbånd og iOS support.  
+
+ 
+
+Utdannelse 
+
+2014-08 - 2017-06	Dataingeniør (Bachelor)	 
+
+NTNU 
+
+ 
+
+Arbeidserfaring 
+
+2017-06 - 2020-04	Devinco AS 
+
+2015-06 – 2017-05	Eplehuset – Kundekonsulent, deltid 
+
+2008-08 - 2013-07	Telia – kundekonsulent 
+
+ 

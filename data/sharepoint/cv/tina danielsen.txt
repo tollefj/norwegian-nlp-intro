@@ -1,0 +1,89 @@
+Tina er en utvikler med falig bakgrunn fra kybernetikk og robotikk på NTNU. Etter studiene jobbet hun et og et halv år i sealab som utvikler. I sealab utviklet hun nettside for fremvisning av sensordata. Videre har hun vært med på utviklingen av et kontrollrom for styring av kamera og fremvisning av sensordata. I dette prosjektet viste hun gode evner til å lære seg ny teknologi og å lage et godt brukergrensesnitt.  
+
+ Hun er strukturert og pålitelig, og hun leverer det hun har lovt å levere. Hun liker å lære noe nytt, gjerne innen teknologi.  Hun jobber effektivt både alene og i grupper. Hun kommuniserer godt med medarbeidere og kunder. Hun får gjort det kundene ber om, men kommer også med nye forslag og ideer. Hun viser godt engasjement og eierskap for sine arbeidsoppgaver.  
+
+ 	 
+
+Prosjektreferanser 
+
+2019-12 - 2019 - 02                            Ranheim Paper and Board 
+
+Klient beskrivelse:   
+
+Ranheim Paper and Board er Nordens ledende leverandør av papir, massivpapp og smårull. De bruker utelukkende returfiber som råstoff. Råstoffet består av bølgepappesker som har blitt innsamlet i Norge og Sverige. 
+
+Prosjekt:   
+
+Kunde har fått en Bale tester som tester ballene av returpapir som kommer inn for fuktighet, plastikk og lignende verdier. Disse verdiene skal videre brukes for å fakturere kunde for kvalitet. Dataen fra sensoren lagres i en SQL database. Prosjektet går ut på å vise fram dataen på en fornuftig måte i excel og lage en rapport i VBA, som viser et fakturagrunnlag baset på prøveresultatene for en leverandør per måned.  
+
+Rolle og ansvar: Utvikler  
+
+Resultat: Et excel ark som viser all testdata og en pivottabell for å filtrere på ønskete parametre. Videre er det laget en rapport i VBA, som viser et fakturagrunnlag for en leverandør for en spesifikk måned.  
+
+Metode og teknologi: SQL, Excel, Visual Basic for Application (VBA) 
+
+ 
+
+2019-01 - 2019-11                               SEALAB	 
+
+Klient beskrivelse: Sealab lager ledende kamerateknologiløsninger for overvåking og analyse i akvakultur. Deres løsninger integrerer software og smarte IoT –enheter; kameraer, lys og sensorer for å gi nyttig analyse og innsikt i  oppdrettsnæringen. 
+
+Prosjekt:  Utvikle kontrollrom for fremvisning og styring av kamera og fremvisning av sensorikk.  
+
+Rolle og ansvar: Utvikler  
+
+I arbeidet som utvikler har jeg vært med å utvikle hele systemet for kontrollrommet.  Vi var fire utivklere, to designere,  en Scrum master, og en prosjekteier som samarbeidet på dette prosjektet. Backend-delen ble utivklet i Python og GUI delen er utviklet i Qt QML med Python integrasjon.  I starten av prosjektet var det viktig å få et system som fungerte og  da vi så at systemet fungerte hos kunder utviklet vi nye moduler og tilleggstjenester.  
+
+Resultat:  Kontrollrom som det kan bestemmes hvilket kamera som skal ses på skjerm og hvilket kamera som styres for øyeblikket og sensordata vises på skjerm.  
+
+Metode og teknologi: Python, Qt QML,  MQTT, REST-API,  GitLab, Jira, SCRUM 
+
+  
+
+2019-01 - 2018-03                              SEALAB	 
+
+Klient beskrivelse:  Sealab lager ledende kamerateknologiløsninger for overvåking og analyse i akvakultur. Deres løsninger integrerer software og smarte IoT –enheter;  kameraer, lys og sensorer for å gi nyttig analyse og innsikt i  oppdrettsnæringen. 
+
+Prosjekt: Lage en nettside for å vise frem sensordata  i sanntid og viser bilder  fra lokasjon på gitte tidspunkter 
+
+Rolle og ansvar:  Utvikler 
+
+I arbeidet som utvikler av nettsiden var jeg med å utviklingen av både backend og frontend. Jeg jobbet sammen med to andre utviklere på dette. Vi samarbeidet tett og bidro i alle ledd, selv om vi fordelte arbeid i mellom oss. Frontend-delen ble skrevet i React JS , mens backend-delen ble skrevet i Python. Jeg hadde hovedansvar for å hente ut data fra ulike REST-API, som skulle vises på nettsiden .  
+
+Resultat: Nettside som viser data i sanntid og viser bilder fra lokasjon  
+
+ Metode og teknologi: React JS, CSS, HTML, Python, XML, REST-API, Docker, Git 
+
+  
+
+  
+
+ 
+
+Utdannelse 
+
+2013-08 – 2018-06                              Master i kybernetikk og robotikk		 
+
+NTNU 
+
+2012-08 -2013-05 	Friluftsliv og villmark 
+
+Sagavoll Folkehøgskole 
+
+ 
+
+Arbeidserfaring 
+
+2019-12 -                                               Capgemini  
+
+2018-07 - 2019-11                               Sealab AS 
+
+2006-06 -2010-07                               	Fiskelaget AS	 
+
+ Kompetanse 
+
+ 
+
+Kompetanse Python,ASP.NET, C#, C/C++, Javacsript, HTML/CSS Qt QML, Matlab/Simulink, Git, Linux,  MQTT, Jira, SCRUM, Excel, Visual Basic Apllication (VBA), Azure DevOps, Git 
+
+Kjennskap til Go, Docker 

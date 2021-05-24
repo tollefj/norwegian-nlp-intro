@@ -1,0 +1,157 @@
+Per Johannes er en konsulent med kompetanse innen Azure, Microsoft 365 og programvareutvikling. Han drives av å bidra til effektivitet og samhandling ved å forstå behovene hos kunden og bygge solide løsninger i samarbeid med ulike nøkkelpersoner. 
+
+Han har bistått flere kunder ved innføring av Microsoft skyteknologi, som adopsjon av Microsoft 365 samt integrasjon mellom SharePoint, Power Platform, Azure Logic Apps og Azure AD. Fra kybernetikk ved NTNU har Per Johannes erfaring med dynamiske systemer og programmering i C, C++, Go, MATLAB og Python og han har kompetanse innen C#, .NET og Azure. 
+
+I kunderettede oppgaver er Per Johannes engasjert i å forstå både strategiske mål og sluttbrukerens behov og jobber for å gi god opplæring og oppfølging. Han er entusiastisk og motivert for å bygge bærekraftige løsninger ved hjelp av teknisk kompetanse og mellommenneskelige ferdigheter. 
+
+ 	 
+
+ 
+
+Prosjektreferanser 
+
+2020-09 -	Forskningssamarbeid 
+
+Rolle: Rådgiver SharePoint Online 
+
+Omfang: 20-50% 
+
+Varighet: Pågående, 2 måneder 
+
+Mål: Bedre struktur og oppsett av områder på SharePoint Online for et forskningssamarbeid. 
+
+Bidrag: Planlegging og implementering 
+
+Verktøy og teknologier: Microsoft 365, SharePoint Online 
+
+ 
+
+ 
+
+2020-07 – 2020-09	Internt prosjekt 
+
+Rolle: Utvikler 
+
+Omfang: 50-100% 
+
+Varighet: 2 måneder 
+
+Mål: Ny portal for ressursplanlegging. 
+
+Bidrag: Planlegging, utforming og implementering. 
+
+Resultat: En ny portal og et fleksibelt utgangspunkt for utvidelsesmuligheter til flere bruksområder. 
+
+Verktøy og teknologier: Microsoft Azure App Service & SQL Db, C#, ASP.NET Core MVC, Entity Framework Core, HTML, JavaScript, Vue.js 
+
+ 
+
+ 
+
+2019-09 – 2020-06	Norsk institutt for naturforskning 
+
+Rolle: Rådgiver for adopsjon 
+
+Omfang: 50-100%  
+
+Varighet: 10 måneder 
+
+Kunde: Norsk Institutt for Naturforskning (NINA) 
+
+Mål: Forbedre samhandling med Office 365 (Microsoft 365) 
+
+Bidrag 1: Brukeropplæring innen dokumenthåndtering og samhandling med SharePoint Online. Bistand ved kurs og workshop, support av superbrukere og produksjon av kortfattede instruksjoner publisert på intranett. Tett samarbeid med IT og prosjektgruppe for Office 365. 
+
+Resultat 1: Mer effektiv samhandling ved hjelp av hevet kompetanse og økt adopsjon av Office 365 med dokumenthåndtering i gruppeområder. 
+
+ 
+
+Bidrag 2: Prosjektgjennomføring nytt intranett med SharePoint Online og bistand ved strukturering av innhold for en rekke ulike støttetjenester og nøkkelfunksjoner i organisasjonen. 
+
+Resultat 2: Et mer funksjonelt intranett med fleksibel publisering av nyheter og felles informasjon. 
+
+ 
+
+Bidrag 3: Innføring av Teams og Yammer. Rådgiving ved planlegging og gjennomføring av utrulling. Brukeropplæring ved online-kurs og publisering av materiale på nett. 
+
+Resultat 3: Mer åpen kommunikasjon i hele organisasjonen med Teams for avdelinger og prosjekter samt Yammer for All-Company og faggrupper. 
+
+ 
+
+Bidrag 4: Utvikling av internt system for håndtering og bestilling av utstyr. Systemet ble utviklet iterativt i tett samarbeid med de ansvarlige hos kunden med fokus på tilgjengelighet og vedlikeholdbarhet. Det ble basert på Power Apps og lister i SharePoint Online. 
+
+Resultat: 4: Et tidsbesparende system for bestilling og håndtering av utstyrsutleie. 
+
+Verktøy og teknologier: Microsoft Office 365, SharePoint Online, Teams, Yammer, Stream, Power Platform, Power Apps, Power Automate (Flow), Azure 
+
+2020-05 - 2020-06	Norsk kommune 
+
+Rolle: Rådgiver og instruktør 
+
+Omfang: 50 % 
+
+Varighet: 1 måned 
+
+Mål: Gjøre god opplæring innen Office 365 tilgjengelig for F3-brukere 
+
+Bidrag: Planlegging av kortfattet opplæringsløp. Utarbeidelse av opplæringsmateriell og instruksjonsvideoer. Gjennomføring av 20 opplæringssesjoner/webinar vha. Teams Live Event. 
+
+Resultat: Vellykket opplæringsløp med gode tilbakemeldinger fra både sluttbrukere og nøkkelpersoner i organisasjonen. 
+
+Verktøy og teknologier: Microsoft 365 (Office 365), Microsoft Teams, OneDrive, OBS Studio, OpenShot Video Editor 
+
+  
+
+2019-11 - 2020-01	Interesseorganisasjon i oljesektoren 
+
+Rolle: Integrasjon av Office 365 og Azure 
+
+Omfang: 50 % 
+
+Varighet: 3 måneder, Periode: 2019-11 - 2020-01 
+
+Mål: Prosessoptimalisering vha. Office 365 og Azure standardkomponenter 
+
+Bidrag: Utforming og implementering av PoC for innrapporteringsprosess med standardkomponenter fra Azure som erstatning for proprietær løsning. 
+
+Resultat: Vellykket PoC for automatisering av innrapporteringsprosess vha. standardkomponenter. 
+
+Verktøy og teknologier: Microsoft Power Apps, Power Automate (Flow), Azure Logic Apps, SharePoint Online 
+
+ 
+
+Utdannelse 
+
+2013-08 - 2019-07	M.Sc. Teknisk Kybernetikk	 
+
+Norges teknisk-naturvitenskapelige universitet (NTNU), Trondheim 
+
+ 
+
+Arbeidserfaring 
+
+2019-09 -	Capgemini Norge AS, konsulent – Software Engineer 
+
+2018-06 - 2018-08	Kitemill AS, sommerjobb – ingeniør kontrollsystem 
+
+ 
+
+ 
+
+Faglig Kunnskap 
+
+Software Engineering: Azure, Microsoft 365, OOP: C#, ASP.NET Core, Entity Framework Core, C, C++, Python, Go 
+
+Application Implementation: Brukeradopsjon/sluttbrukeropplæring 
+
+ 
+
+Teknologi 
+
+Azure PaaS: App Service (Web apps, .NET Core), SQL Db, Logic Apps, Functions 
+
+Microsoft .NET Core: ASP.NET Core, EF Core 
+
+Microsoft 365 (Office 365): Teams og SharePoint Online brukeradopsjon og implementasjon 
+
+Power Platform: Power Apps, Power Automate 

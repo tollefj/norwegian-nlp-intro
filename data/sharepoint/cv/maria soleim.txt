@@ -1,0 +1,185 @@
+Maria er sivilingeniør i datateknologi fra NTNU. Med spesialisering innenfor kunstig intelligens har hun bred erfaring med AI-teknikker som klassifisering, regresjon, reinforcement learning, anbefalingssystemer, tidsserieprediksjon og clustering.
+
+I tillegg er Maria glad i web- og apputvikling. Er hun ikke fornøyd med appene hun laster ned lager hun gjerne en app selv. Python og Java er språkene hun har jobbet mest med. Innen frontend har hun erfaring innenfor Javascript og rammeverk som React i tillegg til HTML og CSS.
+
+Gjennom prosjekter i forbindelse med skolearbeid og sommerjobber har Maria jobbet mye i team. Hun har gode samarbeidsevner. Samtidig har hun fokus på god kommunikasjon med kunden. Hun er selvgående og ikke redd for å prøve og feile.
+
+Prosjektreferanser
+
+2020-10 Capgemini
+
+Prosjekt:
+
+CAPasity er en ressursverktøyfor Capgemini Trondheim for å holde oversikt over hvilke konsulenter som er ledige og hvilke muligheter som finnes for dem.
+
+Rolle og ansvar:
+
+Maria har jobbet med å skrive om webapplikasjonen fra Razor pages til Vue og med å implementere nye features.
+
+Metode og teknologi:
+
+Vue, Azure, Git
+
+Resultat:
+
+CAPasity har blitt mer brukervennlig og brukes hver dag i Capgemini Trondheim.
+
+Maria Soleim
+
+Konsulent
+
+2020-06 NTNUI Friidrett
+
+Løpegruppe for studenter med rundt 100 aktive medlemmer.
+
+Prosjekt:
+
+Modernisering og vedlikehold av nettsidene til NTNUI Friidrett. Disse sidene er på mange måter gruppas ansikts utad og skal motivere potensielle nye medlemmer til å bli med. Samtidig skal nettsidene være en informasjonsportal for eksisterende medlemmer.
+
+Rolle og ansvar:
+
+Maria har uoppfordret tatt på seg ansvaret for å jobbe med design, innhold og utvikling av nettsidene.
+
+Metode og teknologi:
+
+Wordpress, HTML, CSS
+
+Resultat:
+
+Nettsidene har fått et løft og brukes i dag.
+
+2020-01 - 2020-06 TrønderEnergi
+
+TrønderEnergi er et energiselskap med ambisjon om å bane vei for fornybarsamfundet.
+
+Prosjekt:
+
+En analyse av nivået av reproduserbarhet innenfor tidsserieprediksjon. Ti nylig publiserte metoder ble undersøkt for om de var så gode som forfatterne påstod.
+
+Rolle og ansvar:
+
+Forfatter av masteroppgave. Maria designet eksperimentet, satte opp miljø for å kjøre avanserte metoder og analyserte resultatene.
+
+Metode og teknologi:
+
+Tidsserieprediksjon, C++, R, Docker, Git
+
+Resultat:
+
+For å sette strømpriser er TrønderEnergi helt avhengige av å beregne hvor mye strøm som kommer til å bli produsert og hvor mye strøm som skal forbrukes i nærmeste framtid. Denne analysen ga TrønderEnergi kunnskap om hvilke metoder som kan brukes til slike beregninger.
+
+2019-07 - 2019-08 Entur AS
+
+Entur AS et et norsk statseid selskap opprettet for å tilby salgs- og billettløsninger for jernbanesektoren og reiseplanlegger for kollektivtransport i hele Norge.
+
+Prosjekt:
+
+Videreutvikling av Android-applikasjon som brukes av togkonduktører for å selge billetter på toget. Teamet til Maria skrev om appen fra å bruke Java til å bruke Kotlin med Googles best practices.
+
+Rolle og ansvar:
+
+Som sommerstudent var Maria utvikler på et allerede eksisterende team. Maria hadde ansvar for kontantutlegg, altså registrering av kontanter som togkonduktører legger ut til kunder ved behov. Maria hadde ansvar for både front-end, at data ble sent til server når internett var tilgjengelig, og utskrift av kvittering.
+
+Metode og teknologi:
+
+Kotlin, Java, Git
+
+Resultat:
+
+Løsningen brukes i dag.
+
+2019-01 - 2019-07 RecSys Challenge 2019
+
+RecSys Challenge er en årlig konferanse innenfor anbefalingssystemer. I 2019 utfordret prissammenligningsportalen trivago deltakerne til å utvikle metoder for å anbefale hoteller for brukere.
+
+Prosjekt:
+
+Deltakerne skulle predikere ved hjelp av input-data fra brukere hvilke hoteller som hadde blitt klikket på i siste del av en sesjon. Dokumentasjon på tidligere anbefalingssystemer ble undersøkt og en ny metode ble forsøkt utviklet.
+
+Rolle og ansvar:
+
+Maria deltok i en gruppe på fire der hun hadde ansvar for programmering.
+
+Metode og teknologi:
+
+Python, TensorFlow, Jupyter Notebook, anbefalingssystemer, Git
+
+Resultat:
+
+Metoden som ble forsøkt utviklet viste seg å ikke fungere optimalt. Teamet fikk allikevel god innsikt i state-of-the-art anbefalingsmetoder.
+
+2018-07 - 2018-12 Safetec
+
+Leverandør av tjenester innen risikostyring og risikobasert beslutningsstøtte. Gjennomfører et bredt spekter av studier og rådgivning innen sikkerhet, pålitelighet og beredskap, der både tekniske, menneskelige og organisatoriske forhold tas i betraktning.
+
+Prosjekt:
+
+Utviklet en prototype av en sikkerhetsportal for arbeidere på oljeplatform.
+
+Rolle og ansvar:
+
+Frontend-utvikler på et lite team i forbindelse med skoleprosjekt.
+
+Metode og teknologi:
+
+React, Git
+
+Resultat:
+
+Løsningen ble brukt av Safetec til å demonstrere hvordan en sikkerhetsportal på oljeplattform kan fungere.
+
+2018-06 - 2018-08 FINN.no AS
+
+FINN.no er en norsk markedsplass på nett som formidler ulike typer annonser og tjenester for privatpersoner og bedrifter.
+
+Prosjekt:
+
+Utviklet en tjeneste som tilgjengeliggjør digital kjøpekontrakt for kjøp og salg av bruktbil. Tjenesten gir også brukerne oversikt over sitt bilhold.
+
+Rolle og ansvar:
+
+Først og fremst utvikler med fokus på frontend, men var også med på idéutvikling og brukertesting.
+
+Metode og teknologi:
+
+React, Node.js, Kubernetes, Docker. Git
+
+Resultat:
+
+Mikrotjenesten finnes i dag på webversjon av FINN.no.
+
+2017-06 - 2017-08 Personlig prosjekt
+
+Prosjekt:
+
+Utviklet en notat-app til Android som er spesielt god på å lagre notater uansett om man blir forstyrret midt i handlelisteskrivinga eller om batteriet på mobilen går.
+
+Rolle og ansvar:
+
+Hele prosjektet ble utført på egenhånd. Konseptutvikler, løsningsarkitekt og fullstack-utvikler
+
+Metode og teknologi:
+
+Java, Git
+
+Resultat:
+
+Appen ble publisert på Google Play Store.
+
+Utdannelse
+
+2015-08 - 2020-06 Sivilingeniør Datateknologi
+
+NTNU
+
+2014-08 - 2015-05 Folkehøgskule
+
+Valdres folkehøgskole
+
+Arbeidserfaring
+
+2020-09 Capgemini
+
+2019-07 - 2019-08 Knowit Objectnet AS
+
+2018-06 - 2018-08 FINN.no AS
