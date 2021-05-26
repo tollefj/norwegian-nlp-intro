@@ -26,9 +26,3 @@ class Viz:
       show_logo=False,
       # color='#EEF5DB',
     )
-
-  def show_parser(self, doc):
-    lit.visualize_parser(
-      doc=doc,
-
-    )

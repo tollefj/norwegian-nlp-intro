@@ -17,7 +17,7 @@ def test(doc):
   return doc
 
 
-txt = "Dette er en presentasjon av norsk NLP for Capgemini som holdes på kontoret i Sirkus Shopping! Epler er bedre enn bananer. Dette er en tredje setning"
+txt = "Capgemini har kontor på Sirkus Shopping, Falkenborgveien 9"
 
 if __name__ == '__main__':
   args = ArgParser('SpaCy args')

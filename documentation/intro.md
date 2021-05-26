@@ -12,7 +12,7 @@
     - *f.eks*
 - Leksikalske ressurser
   - leksikon
-  - tekstkorpus
+  - tekstkorpus (i dag har vi omtrent 109 GB tilgjengelig tekst, utbedret av nasjonalbiblioteket)
   - trebanker (grammatikk, syntakisk informasjon, ...)
   > Utvikles og vedlikeholdes bl.a. av [nasjonalbiblioteket](https://www.nb.no/sprakbanken/)
 - Lingvistiske regler (substantiv, adjektiv, ...)
@@ -24,7 +24,9 @@
 ### Hva er disse annoteringene?
 |Dependency Label|Grammatical Function|
 |---|---|
+|ADJ|Adjective|
 |ADV|Adverbial|
+|ADP|Adposition|
 |APP|Apposition|
 |ATR|Attribute|
 |DET|Determiner|
@@ -39,11 +41,13 @@
 |FYLL|Filler|
 |IK|Sentence-internal punctuation|
 |INFV|Non-finite verb|
-|INTERJ|Interjection|
+|INTJ/INTERJ|Interjection|
 |IOBJ|Indirect object|
 |IP|Sentence-separating punctuation|
 |KONJ|Conjunction|
 |KOORD|Coordination|
+|NOUN|Noun|
+|PROPN|Proper Noun|
 |OPRED|Object predicative|
 |PAR|Parenthetical expression|
 |PSUBJ|Potential subject|
@@ -74,13 +78,13 @@ Tvetydighet:
   - å stamme fra noe / en folkegruppe
 - Bane:
   - togbane
-  - fotballbane
+  - på banen (f.eks fotball)
   - en satellitt går i bane
-  - man baner seg vei
+  - å bane seg vei
 - Bar
   - utested
   - måleenhet for trykk
-  - granbar / gikk rett i baret
+  - granbar
   - naken; bar mage
   - ublandet; drikke whiskyen bar
 

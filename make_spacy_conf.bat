@@ -1,0 +1,1 @@
+python -m spacy init fill-config ./norwegian_config.cfg ./config.cfg
